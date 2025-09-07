@@ -1,0 +1,15 @@
+{
+  "ad": "Anderson_ksampResult(statistic=np.float64(136.63780471708472), critical_values=array([0.325, 1.226, 1.961, 2.718, 3.752, 4.592, 6.546]), pvalue=np.float64(0.001))",
+  "ks_stat": 1.0,
+  "ks_p": 4.3461539535926956e-80,
+  "mannwhitney_stat": 0.0,
+  "mannwhitney_p": 1.2748552969240578e-45,
+  "ttest_stat": -20.441274332975436,
+  "ttest_p": 2.2513994687075576e-53,
+  "cohens_d": -2.4965141563595887,
+  "cliffs_delta": -1.0,
+  "bootstrap_mean_diff_ci": [
+    -3.2888280127142044,
+    -2.7126873134328386
+  ]
+}

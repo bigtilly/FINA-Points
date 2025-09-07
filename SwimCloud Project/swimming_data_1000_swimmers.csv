@@ -1,0 +1,1001 @@
+50 Free Name,50 Free Time,50 Free FINA,100 Br Name,100 Br Time,100 Br FINA,100 Back Name,100 Back Time,100 Bk FINA,Place of 1000,Percentile
+"Alex Anderson",17.95,950,"Aaron Garcia 3",49.89,950,"Kyle Davis 2",43.85,950,1,100
+"Blake Anderson",18.12,930,"Drew Garcia 3",49.98,947,"Logan Davis 2",44.22,939,2,100
+"Cameron Anderson",18.28,911,"Ethan Garcia 3",49.99,947,"Max Davis 2",44.56,929,3,100
+"Devon Anderson",19.18,804,"Felix Garcia 3",50.05,944,"Noah Davis 2",45.07,914,4,100
+"Ellis Anderson",19.18,804,"Gavin Garcia 3",50.05,944,"Owen Davis 2",45.07,914,5,100
+"Finley Anderson",19.21,800,"Henry Garcia 3",50.07,944,"Parker Davis 2",45.1,913,6,100
+"Gray Anderson",19.21,800,"Ivan Garcia 3",50.1,943,"Quinn Davis 2",45.19,910,7,99
+"Hunter Anderson",19.22,799,"Jack Garcia 3",50.11,942,"Ryan Davis 2",45.22,909,8,99
+"Ian Anderson",19.24,796,"Alex Harris 3",50.13,942,"Sam Davis 2",45.27,908,9,99
+"Jake Anderson",19.24,796,"Ben Garcia 3",50.15,941,"Tyler Davis 2",45.32,906,10,99
+"Kyle Anderson",19.24,796,"Blake Harris 3",50.17,940,"Aaron Davis 2",45.37,905,11,99
+"Logan Anderson",19.24,796,"Cameron Harris 3",50.29,936,"Ben Davis 2",45.41,903,12,99
+"Max Anderson",19.26,794,"Devon Harris 3",50.3,936,"Cole Davis 2",45.47,902,13,99
+"Noah Anderson",19.27,793,"Cole Garcia 3",50.31,936,"Drew Davis 2",45.5,901,14,99
+"Owen Anderson",19.27,793,"Ellis Harris 3",50.32,935,"Ethan Davis 2",45.62,897,15,99
+"Parker Anderson",19.27,793,"Finley Harris 3",50.41,932,"Felix Davis 2",45.62,897,16,99
+"Quinn Anderson",19.28,792,"Gray Harris 3",50.41,932,"Gavin Davis 2",45.75,893,17,98
+"Ryan Anderson",19.28,792,"Hunter Harris 3",50.41,932,"Henry Davis 2",45.78,892,18,98
+"Sam Anderson",19.28,792,"Ian Harris 3",50.45,931,"Ivan Davis 2",45.78,892,19,98
+"Tyler Anderson",19.28,792,"Jake Harris 3",50.46,930,"Jack Davis 2",45.84,891,20,98
+"Aaron Anderson",19.29,790,"Kyle Harris 3",50.51,929,"Alex Evans 2",45.86,890,21,98
+"Ben Anderson",19.3,789,"Logan Harris 3",50.56,927,"Blake Evans 2",45.89,889,22,98
+"Cole Anderson",19.3,789,"Max Harris 3",50.61,925,"Cameron Evans 2",45.96,887,23,98
+"Drew Anderson",19.31,788,"Noah Harris 3",50.66,923,"Devon Evans 2",46.02,885,24,98
+"Ethan Anderson",19.32,787,"Owen Harris 3",50.7,922,"Ellis Evans 2",46.08,884,25,98
+"Felix Anderson",19.32,787,"Parker Harris 3",50.77,920,"Finley Evans 2",46.1,883,26,98
+"Gavin Anderson",19.33,786,"Quinn Harris 3",50.79,919,"Gray Evans 2",46.11,883,27,97
+"Henry Anderson",19.35,783,"Ryan Harris 3",50.8,919,"Hunter Evans 2",46.13,882,28,97
+"Ivan Anderson",19.36,782,"Sam Harris 3",50.99,912,"Ian Evans 2",46.14,882,29,97
+"Jack Anderson",19.36,782,"Tyler Harris 3",50.99,912,"Jake Evans 2",46.18,881,30,97
+"Alex Brown",19.38,780,"Aaron Harris 3",51.03,911,"Kyle Evans 2",46.19,880,31,97
+"Blake Brown",19.38,780,"Ben Harris 3",51.07,909,"Logan Evans 2",46.26,878,32,97
+"Cameron Brown",19.38,780,"Cole Harris 3",51.12,908,"Max Evans 2",46.3,877,33,97
+"Devon Brown",19.38,780,"Drew Harris 3",51.13,907,"Noah Evans 2",46.32,876,34,97
+"Ellis Brown",19.41,776,"Ethan Harris 3",51.15,907,"Owen Evans 2",46.36,875,35,97
+"Finley Brown",19.41,776,"Felix Harris 3",51.16,906,"Parker Evans 2",46.39,874,36,97
+"Gray Brown",19.41,776,"Gavin Harris 3",51.28,902,"Quinn Evans 2",46.4,874,37,96
+"Hunter Brown",19.42,775,"Henry Harris 3",51.31,901,"Ryan Evans 2",46.42,873,38,96
+"Ian Brown",19.42,775,"Ivan Harris 3",51.35,900,"Sam Evans 2",46.42,873,39,96
+"Jake Brown",19.42,775,"Jack Harris 3",51.36,899,"Tyler Evans 2",46.42,873,40,96
+"Kyle Brown",19.42,775,"Alex Johnson 3",51.45,896,"Aaron Evans 2",46.45,872,41,96
+"Logan Brown",19.43,774,"Blake Johnson 3",51.47,895,"Ben Evans 2",46.56,869,42,96
+"Max Brown",19.44,773,"Cameron Johnson 3",51.5,894,"Cole Evans 2",46.63,867,43,96
+"Noah Brown",19.44,773,"Devon Johnson 3",51.51,894,"Drew Evans 2",46.79,862,44,96
+"Owen Brown",19.45,771,"Ellis Johnson 3",51.53,893,"Ethan Evans 2",46.82,861,45,96
+"Parker Brown",19.45,771,"Finley Johnson 3",51.55,893,"Felix Evans 2",46.88,860,46,96
+"Quinn Brown",19.46,770,"Gray Johnson 3",51.57,892,"Gavin Evans 2",46.92,858,47,95
+"Ryan Brown",19.46,770,"Hunter Johnson 3",51.62,890,"Henry Evans 2",47,856,48,95
+"Sam Brown",19.47,769,"Ian Johnson 3",51.67,889,"Ivan Evans 2",47.06,854,49,95
+"Tyler Brown",19.47,769,"Jake Johnson 3",51.69,888,"Jack Evans 2",47.08,854,50,95
+"Aaron Brown",19.48,768,"Kyle Johnson 3",51.72,887,"Alex Fisher 2",47.08,854,51,95
+"Ben Brown",19.5,765,"Logan Johnson 3",51.83,883,"Blake Fisher 2",47.09,853,52,95
+"Cole Brown",19.5,765,"Max Johnson 3",51.83,883,"Cameron Fisher 2",47.13,852,53,95
+"Drew Brown",19.51,764,"Noah Johnson 3",51.86,882,"Devon Fisher 2",47.13,852,54,95
+"Ethan Brown",19.51,764,"Owen Johnson 3",51.91,880,"Ellis Fisher 2",47.14,852,55,95
+"Felix Brown",19.51,764,"Parker Johnson 3",51.96,879,"Finley Fisher 2",47.15,852,56,95
+"Gavin Brown",19.52,763,"Quinn Johnson 3",51.97,878,"Gray Fisher 2",47.17,851,57,94
+"Henry Brown",19.52,763,"Ryan Johnson 3",52.02,876,"Hunter Fisher 2",47.19,850,58,94
+"Ivan Brown",19.52,763,"Sam Johnson 3",52.04,876,"Ian Fisher 2",47.32,847,59,94
+"Jack Brown",19.53,762,"Tyler Johnson 3",52.04,876,"Jake Fisher 2",47.38,845,60,94
+"Alex Clark",19.53,762,"Aaron Johnson 3",52.12,873,"Kyle Fisher 2",47.4,844,61,94
+"Blake Clark",19.55,760,"Ben Johnson 3",52.13,873,"Logan Fisher 2",47.4,844,62,94
+"Cameron Clark",19.56,758,"Cole Johnson 3",52.15,872,"Max Fisher 2",47.41,844,63,94
+"Devon Clark",19.57,757,"Drew Johnson 3",52.16,872,"Noah Fisher 2",47.43,843,64,94
+"Ellis Clark",19.57,757,"Ethan Johnson 3",52.17,871,"Owen Fisher 2",47.46,842,65,94
+"Finley Clark",19.59,755,"Felix Johnson 3",52.19,871,"Parker Fisher 2",47.46,842,66,94
+"Gray Clark",19.6,754,"Gavin Johnson 3",52.22,870,"Quinn Fisher 2",47.46,842,67,93
+"Hunter Clark",19.6,754,"Henry Johnson 3",52.23,869,"Ryan Fisher 2",47.47,842,68,93
+"Ian Clark",19.61,752,"Ivan Johnson 3",52.26,868,"Sam Fisher 2",47.52,841,69,93
+"Jake Clark",19.61,752,"Jack Johnson 3",52.39,864,"Tyler Fisher 2",47.55,840,70,93
+"Kyle Clark",19.61,752,"Alex Kelly 3",52.4,863,"Aaron Fisher 2",47.56,839,71,93
+"Logan Clark",19.62,751,"Blake Kelly 3",52.4,863,"Ben Fisher 2",47.58,839,72,93
+"Max Clark",19.62,751,"Cameron Kelly 3",52.43,862,"Cole Fisher 2",47.62,838,73,93
+"Noah Clark",19.62,751,"Devon Kelly 3",52.5,860,"Drew Fisher 2",47.63,837,74,93
+"Owen Clark",19.62,751,"Ellis Kelly 3",52.66,854,"Ethan Fisher 2",47.66,836,75,93
+"Parker Clark",19.62,751,"Finley Kelly 3",52.67,854,"Felix Fisher 2",47.66,836,76,93
+"Quinn Clark",19.62,751,"Gray Kelly 3",52.68,854,"Gavin Fisher 2",47.7,835,77,92
+"Ryan Clark",19.62,751,"Hunter Kelly 3",52.7,853,"Henry Fisher 2",47.72,835,78,92
+"Sam Clark",19.63,750,"Ian Kelly 3",52.72,852,"Ivan Fisher 2",47.75,834,79,92
+"Tyler Clark",19.63,750,"Jake Kelly 3",52.76,851,"Jack Fisher 2",47.75,834,80,92
+"Aaron Clark",19.64,749,"Kyle Kelly 3",52.77,851,"Alex Garcia 2",47.77,833,81,92
+"Ben Clark",19.65,748,"Logan Kelly 3",52.82,849,"Blake Garcia 2",47.8,832,82,92
+"Cole Clark",19.65,748,"Max Kelly 3",52.88,847,"Cameron Garcia 2",47.95,828,83,92
+"Drew Clark",19.66,746,"Noah Kelly 3",52.9,846,"Devon Garcia 2",47.98,827,84,92
+"Ethan Clark",19.67,745,"Owen Kelly 3",52.98,843,"Ellis Garcia 2",48,826,85,92
+"Felix Clark",19.67,745,"Parker Kelly 3",52.99,843,"Finley Garcia 2",48.09,824,86,92
+"Gavin Clark",19.67,745,"Quinn Kelly 3",53.01,842,"Gray Garcia 2",48.17,821,87,91
+"Henry Clark",19.68,744,"Ryan Kelly 3",53.03,842,"Hunter Garcia 2",48.18,821,88,91
+"Ivan Clark",19.68,744,"Sam Kelly 3",53.09,840,"Ian Garcia 2",48.2,820,89,91
+"Jack Clark",19.68,744,"Tyler Kelly 3",53.11,839,"Jake Garcia 2",48.2,820,90,91
+"Alex Davis",19.69,743,"Aaron Kelly 3",53.12,839,"Kyle Garcia 2",48.21,820,91,91
+"Blake Davis",19.69,743,"Ben Kelly 3",53.12,839,"Logan Garcia 2",48.3,817,92,91
+"Cameron Davis",19.69,743,"Cole Kelly 3",53.19,836,"Max Garcia 2",48.33,816,93,91
+"Devon Davis",19.7,742,"Drew Kelly 3",53.26,834,"Noah Garcia 2",48.38,815,94,91
+"Ellis Davis",19.7,742,"Ethan Kelly 3",53.27,833,"Owen Garcia 2",48.52,811,95,91
+"Finley Davis",19.71,740,"Felix Kelly 3",53.29,833,"Parker Garcia 2",48.55,810,96,91
+"Gray Davis",19.72,739,"Gavin Kelly 3",53.31,832,"Quinn Garcia 2",48.56,810,97,90
+"Hunter Davis",19.72,739,"Henry Kelly 3",53.42,828,"Ryan Garcia 2",48.57,809,98,90
+"Ian Davis",19.74,737,"Ivan Kelly 3",53.42,828,"Sam Garcia 2",48.62,808,99,90
+"Jake Davis",19.74,737,"Jack Kelly 3",53.44,827,"Tyler Garcia 2",48.63,808,100,90
+"Kyle Davis",19.75,736,"Alex Lewis 3",53.45,827,"Aaron Garcia 2",48.64,807,101,90
+"Logan Davis",19.75,736,"Blake Lewis 3",53.45,827,"Ben Garcia 2",48.66,807,102,90
+"Max Davis",19.75,736,"Cameron Lewis 3",53.47,826,"Cole Garcia 2",48.67,806,103,90
+"Noah Davis",19.76,735,"Devon Lewis 3",53.55,824,"Drew Garcia 2",48.67,806,104,90
+"Owen Davis",19.76,735,"Ellis Lewis 3",53.6,822,"Ethan Garcia 2",48.67,806,105,90
+"Parker Davis",19.77,733,"Finley Lewis 3",53.61,822,"Felix Garcia 2",48.78,803,106,90
+"Quinn Davis",19.77,733,"Gray Lewis 3",53.62,821,"Gavin Garcia 2",48.83,802,107,89
+"Ryan Davis",19.78,732,"Hunter Lewis 3",53.65,820,"Henry Garcia 2",48.88,800,108,89
+"Sam Davis",19.78,732,"Ian Lewis 3",53.72,818,"Ivan Garcia 2",48.88,800,109,89
+"Tyler Davis",19.78,732,"Jake Lewis 3",53.75,817,"Jack Garcia 2",48.89,800,110,89
+"Aaron Davis",19.78,732,"Kyle Lewis 3",53.78,816,"Alex Harris 2",48.91,799,111,89
+"Ben Davis",19.78,732,"Logan Lewis 3",53.78,816,"Blake Harris 2",48.91,799,112,89
+"Cole Davis",19.78,732,"Max Lewis 3",53.84,814,"Cameron Harris 2",48.91,799,113,89
+"Drew Davis",19.79,731,"Noah Lewis 3",53.85,813,"Devon Harris 2",48.98,797,114,89
+"Ethan Davis",19.8,730,"Owen Lewis 3",53.85,813,"Ellis Harris 2",49,796,115,89
+"Felix Davis",19.8,730,"Parker Lewis 3",53.87,813,"Finley Harris 2",49.02,796,116,89
+"Gavin Davis",19.82,727,"Quinn Lewis 3",53.94,810,"Gray Harris 2",49.06,795,117,88
+"Henry Davis",19.83,726,"Ryan Lewis 3",53.94,810,"Hunter Harris 2",49.09,794,118,88
+"Ivan Davis",19.83,726,"Sam Lewis 3",54,808,"Ian Harris 2",49.12,793,119,88
+"Jack Davis",19.84,725,"Tyler Lewis 3",54.01,808,"Jake Harris 2",49.12,793,120,88
+"Alex Evans",19.85,724,"Aaron Lewis 3",54.03,807,"Kyle Harris 2",49.14,792,121,88
+"Blake Evans",19.85,724,"Ben Lewis 3",54.05,806,"Logan Harris 2",49.16,792,122,88
+"Cameron Evans",19.86,723,"Cole Lewis 3",54.06,806,"Max Harris 2",49.17,791,123,88
+"Devon Evans",19.86,723,"Drew Lewis 3",54.07,806,"Noah Harris 2",49.22,790,124,88
+"Ellis Evans",19.87,721,"Ethan Lewis 3",54.07,806,"Owen Harris 2",49.23,790,125,88
+"Finley Evans",19.87,721,"Felix Lewis 3",54.09,805,"Parker Harris 2",49.27,788,126,88
+"Gray Evans",19.88,720,"Gavin Lewis 3",54.09,805,"Quinn Harris 2",49.29,788,127,87
+"Hunter Evans",19.88,720,"Henry Lewis 3",54.09,805,"Ryan Harris 2",49.29,788,128,87
+"Ian Evans",19.88,720,"Ivan Lewis 3",54.15,803,"Sam Harris 2",49.32,787,129,87
+"Jake Evans",19.88,720,"Jack Lewis 3",54.18,802,"Tyler Harris 2",49.35,786,130,87
+"Kyle Evans",19.89,719,"Alex Miller 3",54.19,802,"Aaron Harris 2",49.37,785,131,87
+"Logan Evans",19.89,719,"Blake Miller 3",54.21,801,"Ben Harris 2",49.39,785,132,87
+"Max Evans",19.89,719,"Cameron Miller 3",54.26,799,"Cole Harris 2",49.41,784,133,87
+"Noah Evans",19.9,718,"Devon Miller 3",54.28,798,"Drew Harris 2",49.42,784,134,87
+"Owen Evans",19.9,718,"Ellis Miller 3",54.3,798,"Ethan Harris 2",49.49,782,135,87
+"Parker Evans",19.9,718,"Finley Miller 3",54.33,797,"Felix Harris 2",49.5,782,136,87
+"Quinn Evans",19.92,715,"Gray Miller 3",54.37,795,"Gavin Harris 2",49.5,782,137,86
+"Ryan Evans",19.93,714,"Hunter Miller 3",54.41,794,"Henry Harris 2",49.5,782,138,86
+"Sam Evans",19.94,713,"Ian Miller 3",54.41,794,"Ivan Harris 2",49.53,781,139,86
+"Tyler Evans",19.94,713,"Jake Miller 3",54.52,790,"Jack Harris 2",49.54,780,140,86
+"Aaron Evans",19.95,712,"Kyle Miller 3",54.52,790,"Alex Johnson 2",49.58,779,141,86
+"Ben Evans",19.95,712,"Logan Miller 3",54.55,789,"Blake Johnson 2",49.6,779,142,86
+"Cole Evans",19.95,712,"Max Miller 3",54.58,788,"Cameron Johnson 2",49.63,778,143,86
+"Drew Evans",19.95,712,"Noah Miller 3",54.6,787,"Devon Johnson 2",49.64,777,144,86
+"Ethan Evans",19.95,712,"Owen Miller 3",54.64,786,"Ellis Johnson 2",49.7,776,145,86
+"Felix Evans",19.95,712,"Parker Miller 3",54.66,785,"Finley Johnson 2",49.7,776,146,86
+"Gavin Evans",19.96,711,"Quinn Miller 3",54.68,785,"Gray Johnson 2",49.72,775,147,85
+"Henry Evans",19.96,711,"Ryan Miller 3",54.7,784,"Hunter Johnson 2",49.74,774,148,85
+"Ivan Evans",19.96,711,"Sam Miller 3",54.73,783,"Ian Johnson 2",49.78,773,149,85
+"Jack Evans",19.97,710,"Tyler Miller 3",54.74,783,"Jake Johnson 2",49.79,773,150,85
+"Alex Fisher",19.97,710,"Aaron Miller 3",54.8,781,"Kyle Johnson 2",49.81,772,151,85
+"Blake Fisher",19.97,710,"Ben Miller 3",54.81,780,"Logan Johnson 2",49.86,771,152,85
+"Cameron Fisher",19.98,708,"Cole Miller 3",54.82,780,"Max Johnson 2",49.91,769,153,85
+"Devon Fisher",19.98,708,"Drew Miller 3",54.85,779,"Noah Johnson 2",50.02,766,154,85
+"Ellis Fisher",19.98,708,"Ethan Miller 3",54.86,778,"Owen Johnson 2",50.02,766,155,85
+"Finley Fisher",19.98,708,"Felix Miller 3",54.86,778,"Parker Johnson 2",50.06,765,156,85
+"Gray Fisher",19.99,707,"Gavin Miller 3",54.86,778,"Quinn Johnson 2",50.07,765,157,84
+"Hunter Fisher",19.99,707,"Henry Miller 3",54.89,777,"Ryan Johnson 2",50.09,764,158,84
+"Ian Fisher",19.99,707,"Ivan Miller 3",54.9,777,"Sam Johnson 2",50.14,763,159,84
+"Jake Fisher",19.99,707,"Jack Miller 3",54.91,777,"Tyler Johnson 2",50.15,762,160,84
+"Kyle Fisher",19.99,707,"Alex Nelson 3",54.98,774,"Aaron Johnson 2",50.17,762,161,84
+"Logan Fisher",19.99,707,"Blake Nelson 3",55,774,"Ben Johnson 2",50.21,760,162,84
+"Max Fisher",19.99,707,"Cameron Nelson 3",55,774,"Cole Johnson 2",50.25,759,163,84
+"Noah Fisher",19.99,707,"Devon Nelson 3",55.02,773,"Drew Johnson 2",50.25,759,164,84
+"Owen Fisher",20,706,"Ellis Nelson 3",55.02,773,"Ethan Johnson 2",50.3,758,165,84
+"Parker Fisher",20,706,"Finley Nelson 3",55.03,773,"Felix Johnson 2",50.3,758,166,84
+"Quinn Fisher",20.01,705,"Gray Nelson 3",55.04,772,"Gavin Johnson 2",50.31,757,167,83
+"Ryan Fisher",20.01,705,"Hunter Nelson 3",55.05,772,"Henry Johnson 2",50.35,756,168,83
+"Sam Fisher",20.01,705,"Ian Nelson 3",55.05,772,"Ivan Johnson 2",50.35,756,169,83
+"Tyler Fisher",20.03,702,"Jake Nelson 3",55.07,771,"Jack Johnson 2",50.36,756,170,83
+"Aaron Fisher",20.03,702,"Kyle Nelson 3",55.09,771,"Alex Kelly 2",50.43,754,171,83
+"Ben Fisher",20.04,701,"Logan Nelson 3",55.1,770,"Blake Kelly 2",50.45,753,172,83
+"Cole Fisher",20.05,700,"Max Nelson 3",55.1,770,"Cameron Kelly 2",50.46,753,173,83
+"Drew Fisher",20.05,700,"Noah Nelson 3",55.11,770,"Devon Kelly 2",50.49,752,174,83
+"Ethan Fisher",20.06,699,"Owen Nelson 3",55.12,769,"Ellis Kelly 2",50.5,752,175,83
+"Felix Fisher",20.06,699,"Parker Nelson 3",55.13,769,"Finley Kelly 2",50.51,751,176,83
+"Gavin Fisher",20.08,696,"Quinn Nelson 3",55.14,769,"Gray Kelly 2",50.55,750,177,82
+"Henry Fisher",20.08,696,"Ryan Nelson 3",55.14,769,"Hunter Kelly 2",50.55,750,178,82
+"Ivan Fisher",20.08,696,"Sam Nelson 3",55.15,768,"Ian Kelly 2",50.56,750,179,82
+"Jack Fisher",20.09,695,"Tyler Nelson 3",55.16,768,"Jake Kelly 2",50.56,750,180,82
+"Alex Garcia",20.09,695,"Aaron Nelson 3",55.16,768,"Kyle Kelly 2",50.59,749,181,82
+"Blake Garcia",20.09,695,"Ben Nelson 3",55.18,767,"Logan Kelly 2",50.61,748,182,82
+"Cameron Garcia",20.1,694,"Cole Nelson 3",55.19,767,"Max Kelly 2",50.61,748,183,82
+"Devon Garcia",20.11,693,"Drew Nelson 3",55.2,767,"Noah Kelly 2",50.62,748,184,82
+"Ellis Garcia",20.11,693,"Ethan Nelson 3",55.2,767,"Owen Kelly 2",50.62,748,185,82
+"Finley Garcia",20.12,692,"Felix Nelson 3",55.21,766,"Parker Kelly 2",50.64,748,186,82
+"Gray Garcia",20.12,692,"Gavin Nelson 3",55.22,766,"Quinn Kelly 2",50.64,748,187,81
+"Hunter Garcia",20.13,690,"Henry Nelson 3",55.22,766,"Ryan Kelly 2",50.68,746,188,81
+"Ian Garcia",20.15,688,"Ivan Nelson 3",55.25,765,"Sam Kelly 2",50.68,746,189,81
+"Jake Garcia",20.15,688,"Jack Nelson 3",55.25,765,"Tyler Kelly 2",50.69,746,190,81
+"Kyle Garcia",20.15,688,"Alex OBrien 3",55.27,764,"Aaron Kelly 2",50.69,746,191,81
+"Logan Garcia",20.15,688,"Blake OBrien 3",55.27,764,"Ben Kelly 2",50.77,744,192,81
+"Max Garcia",20.15,688,"Cameron OBrien 3",55.28,764,"Cole Kelly 2",50.78,743,193,81
+"Noah Garcia",20.16,687,"Devon OBrien 3",55.29,764,"Drew Kelly 2",50.78,743,194,81
+"Owen Garcia",20.17,686,"Ellis OBrien 3",55.29,764,"Ethan Kelly 2",50.82,742,195,81
+"Parker Garcia",20.17,686,"Finley OBrien 3",55.32,763,"Felix Kelly 2",50.86,741,196,81
+"Quinn Garcia",20.19,683,"Gray OBrien 3",55.33,762,"Gavin Kelly 2",50.9,740,197,80
+"Ryan Garcia",20.2,682,"Hunter OBrien 3",55.35,762,"Henry Kelly 2",50.9,740,198,80
+"Sam Garcia",20.21,681,"Ian OBrien 3",55.36,761,"Ivan Kelly 2",50.91,740,199,80
+"Tyler Garcia",20.22,680,"Jake OBrien 3",55.38,761,"Jack Kelly 2",50.92,739,200,80
+"Aaron Garcia",20.4,658,"Kyle OBrien 3",55.39,760,"Alex Lewis 2",51,737,201,80
+"Ben Garcia",20.41,657,"Logan OBrien 3",55.39,760,"Blake Lewis 2",51,737,202,80
+"Cole Garcia",20.42,656,"Max OBrien 3",55.41,759,"Cameron Lewis 2",51,737,203,80
+"Drew Garcia",20.42,656,"Noah OBrien 3",55.41,759,"Devon Lewis 2",51.03,736,204,80
+"Ethan Garcia",20.43,655,"Owen OBrien 3",55.44,758,"Ellis Lewis 2",51.07,735,205,80
+"Felix Garcia",20.43,655,"Parker OBrien 3",55.44,758,"Finley Lewis 2",51.13,733,206,80
+"Gavin Garcia",20.43,655,"Quinn OBrien 3",55.45,758,"Gray Lewis 2",51.18,731,207,79
+"Henry Garcia",20.44,654,"Ryan OBrien 3",55.45,758,"Hunter Lewis 2",51.18,731,208,79
+"Ivan Garcia",20.44,654,"Sam OBrien 3",55.47,757,"Ian Lewis 2",51.19,731,209,79
+"Jack Garcia",20.44,654,"Tyler OBrien 3",55.47,757,"Jake Lewis 2",51.2,731,210,79
+"Alex Harris",20.44,654,"Aaron OBrien 3",55.49,757,"Kyle Lewis 2",51.2,731,211,79
+"Blake Harris",20.44,654,"Ben OBrien 3",55.5,756,"Logan Lewis 2",51.22,730,212,79
+"Cameron Harris",20.44,654,"Cole OBrien 3",55.52,756,"Max Lewis 2",51.26,729,213,79
+"Devon Harris",20.44,654,"Drew OBrien 3",55.52,756,"Noah Lewis 2",51.28,729,214,79
+"Ellis Harris",20.46,651,"Ethan OBrien 3",55.53,755,"Owen Lewis 2",51.36,726,215,79
+"Finley Harris",20.47,650,"Felix OBrien 3",55.54,755,"Parker Lewis 2",51.39,725,216,79
+"Gray Harris",20.48,649,"Gavin OBrien 3",55.55,755,"Quinn Lewis 2",51.43,724,217,78
+"Hunter Harris",20.49,648,"Henry OBrien 3",55.56,754,"Ryan Lewis 2",51.49,722,218,78
+"Ian Harris",20.5,646,"Ivan OBrien 3",55.57,754,"Sam Lewis 2",51.53,721,219,78
+"Jake Harris",20.51,645,"Jack OBrien 3",55.57,754,"Tyler Lewis 2",51.55,720,220,78
+"Kyle Harris",20.51,645,"Alex Parker 3",55.6,753,"Aaron Lewis 2",51.58,720,221,78
+"Logan Harris",20.51,645,"Blake Parker 3",55.6,753,"Ben Lewis 2",51.6,719,222,78
+"Max Harris",20.52,644,"Cameron Parker 3",55.61,753,"Cole Lewis 2",51.61,719,223,78
+"Noah Harris",20.53,643,"Devon Parker 3",55.63,752,"Drew Lewis 2",51.72,715,224,78
+"Owen Harris",20.53,643,"Ellis Parker 3",55.65,751,"Ethan Lewis 2",51.74,715,225,78
+"Parker Harris",20.53,643,"Finley Parker 3",55.67,751,"Felix Lewis 2",51.77,714,226,78
+"Quinn Harris",20.53,643,"Gray Parker 3",55.68,750,"Gavin Lewis 2",51.79,713,227,77
+"Ryan Harris",20.53,643,"Hunter Parker 3",55.69,750,"Henry Lewis 2",51.8,713,228,77
+"Sam Harris",20.53,643,"Ian Parker 3",55.71,749,"Ivan Lewis 2",51.82,712,229,77
+"Tyler Harris",20.53,643,"Jake Parker 3",55.71,749,"Jack Lewis 2",51.83,712,230,77
+"Aaron Harris",20.54,642,"Kyle Parker 3",55.74,748,"Alex Miller 2",51.86,711,231,77
+"Ben Harris",20.54,642,"Logan Parker 3",55.74,748,"Blake Miller 2",51.89,710,232,77
+"Cole Harris",20.55,640,"Max Parker 3",55.76,747,"Cameron Miller 2",51.95,709,233,77
+"Drew Harris",20.55,640,"Noah Parker 3",55.76,747,"Devon Miller 2",51.99,707,234,77
+"Ethan Harris",20.56,639,"Owen Parker 3",55.76,747,"Ellis Miller 2",51.99,707,235,77
+"Felix Harris",20.56,639,"Parker Parker 3",55.79,746,"Finley Miller 2",52.01,707,236,77
+"Gavin Harris",20.56,639,"Quinn Parker 3",55.79,746,"Gray Miller 2",52.01,707,237,76
+"Henry Harris",20.58,637,"Ryan Parker 3",55.8,746,"Hunter Miller 2",52.02,706,238,76
+"Ivan Harris",20.6,635,"Sam Parker 3",55.84,745,"Ian Miller 2",52.02,706,239,76
+"Jack Harris",20.61,633,"Tyler Parker 3",55.84,745,"Jake Miller 2",52.03,706,240,76
+"Alex Johnson",20.61,633,"Aaron Parker 3",55.85,744,"Kyle Miller 2",52.06,705,241,76
+"Blake Johnson",20.61,633,"Ben Parker 3",55.86,744,"Logan Miller 2",52.07,705,242,76
+"Cameron Johnson",20.62,632,"Cole Parker 3",55.88,743,"Max Miller 2",52.1,704,243,76
+"Devon Johnson",20.62,632,"Drew Parker 3",55.88,743,"Noah Miller 2",52.13,703,244,76
+"Ellis Johnson",20.62,632,"Ethan Parker 3",55.88,743,"Owen Miller 2",52.14,703,245,76
+"Finley Johnson",20.62,632,"Felix Parker 3",55.89,743,"Parker Miller 2",52.15,703,246,76
+"Gray Johnson",20.63,631,"Gavin Parker 3",55.92,742,"Quinn Miller 2",52.16,702,247,75
+"Hunter Johnson",20.63,631,"Henry Parker 3",55.94,741,"Ryan Miller 2",52.17,702,248,75
+"Ian Johnson",20.64,630,"Ivan Parker 3",55.96,740,"Sam Miller 2",52.22,700,249,75
+"Jake Johnson",20.66,627,"Jack Parker 3",55.96,740,"Tyler Miller 2",52.27,699,250,75
+"Kyle Johnson",20.66,627,"Alex Quinn 3",55.98,740,"Aaron Miller 2",52.27,699,251,75
+"Logan Johnson",20.66,627,"Blake Quinn 3",55.99,739,"Ben Miller 2",52.28,699,252,75
+"Max Johnson",20.66,627,"Cameron Quinn 3",56,739,"Cole Miller 2",52.29,698,253,75
+"Noah Johnson",20.66,627,"Devon Quinn 3",56.02,738,"Drew Miller 2",52.3,698,254,75
+"Owen Johnson",20.66,627,"Ellis Quinn 3",56.02,738,"Ethan Miller 2",52.35,697,255,75
+"Parker Johnson",20.66,627,"Finley Quinn 3",56.04,738,"Felix Miller 2",52.38,696,256,75
+"Quinn Johnson",20.67,626,"Gray Quinn 3",56.07,737,"Gavin Miller 2",52.4,695,257,74
+"Ryan Johnson",20.67,626,"Hunter Quinn 3",56.12,735,"Henry Miller 2",52.41,695,258,74
+"Sam Johnson",20.68,625,"Ian Quinn 3",56.15,734,"Ivan Miller 2",52.45,694,259,74
+"Tyler Johnson",20.68,625,"Jake Quinn 3",56.16,734,"Jack Miller 2",52.45,694,260,74
+"Aaron Johnson",20.68,625,"Kyle Quinn 3",56.18,733,"Alex Nelson 2",52.46,693,261,74
+"Ben Johnson",20.69,624,"Logan Quinn 3",56.21,732,"Blake Nelson 2",52.49,692,262,74
+"Cole Johnson",20.69,624,"Max Quinn 3",56.23,731,"Cameron Nelson 2",52.49,692,263,74
+"Drew Johnson",20.69,624,"Noah Quinn 3",56.26,730,"Devon Nelson 2",52.51,692,264,74
+"Ethan Johnson",20.7,623,"Owen Quinn 3",56.28,729,"Ellis Nelson 2",52.55,691,265,74
+"Felix Johnson",20.71,621,"Parker Quinn 3",56.28,729,"Finley Nelson 2",52.56,690,266,74
+"Gavin Johnson",20.71,621,"Quinn Quinn 3",56.33,728,"Gray Nelson 2",52.57,690,267,73
+"Henry Johnson",20.73,619,"Ryan Quinn 3",56.33,728,"Hunter Nelson 2",52.62,689,268,73
+"Ivan Johnson",20.74,618,"Sam Quinn 3",56.34,727,"Ian Nelson 2",52.64,688,269,73
+"Jack Johnson",20.74,618,"Tyler Quinn 3",56.35,727,"Jake Nelson 2",52.64,688,270,73
+"Alex Kelly",20.74,618,"Aaron Quinn 3",56.37,726,"Kyle Nelson 2",52.71,686,271,73
+"Blake Kelly",20.75,617,"Ben Quinn 3",56.41,725,"Logan Nelson 2",52.71,686,272,73
+"Cameron Kelly",20.75,617,"Cole Quinn 3",56.41,725,"Max Nelson 2",52.73,685,273,73
+"Devon Kelly",20.75,617,"Drew Quinn 3",56.43,724,"Noah Nelson 2",52.74,685,274,73
+"Ellis Kelly",20.76,615,"Ethan Quinn 3",56.43,724,"Owen Nelson 2",52.76,684,275,73
+"Finley Kelly",20.76,615,"Felix Quinn 3",56.5,722,"Parker Nelson 2",52.77,684,276,73
+"Gray Kelly",20.76,615,"Gavin Quinn 3",56.52,721,"Quinn Nelson 2",52.77,684,277,72
+"Hunter Kelly",20.76,615,"Henry Quinn 3",56.52,721,"Ryan Nelson 2",52.78,684,278,72
+"Ian Kelly",20.76,615,"Ivan Quinn 3",56.53,721,"Sam Nelson 2",52.8,683,279,72
+"Jake Kelly",20.76,615,"Jack Quinn 3",56.54,720,"Tyler Nelson 2",52.8,683,280,72
+"Kyle Kelly",20.76,615,"Alex Roberts 3",56.55,720,"Aaron Nelson 2",52.91,680,281,72
+"Logan Kelly",20.76,615,"Blake Roberts 3",56.56,720,"Ben Nelson 2",52.95,679,282,72
+"Max Kelly",20.76,615,"Cameron Roberts 3",56.58,719,"Cole Nelson 2",52.96,678,283,72
+"Noah Kelly",20.76,615,"Devon Roberts 3",56.59,719,"Drew Nelson 2",52.98,678,284,72
+"Owen Kelly",20.78,613,"Ellis Roberts 3",56.6,718,"Ethan Nelson 2",53.01,677,285,72
+"Parker Kelly",20.78,613,"Finley Roberts 3",56.6,718,"Felix Nelson 2",53.01,677,286,72
+"Quinn Kelly",20.78,613,"Gray Roberts 3",56.62,718,"Gavin Nelson 2",53.01,677,287,71
+"Ryan Kelly",20.78,613,"Hunter Roberts 3",56.64,717,"Henry Nelson 2",53.02,677,288,71
+"Sam Kelly",20.78,613,"Ian Roberts 3",56.65,717,"Ivan Nelson 2",53.03,676,289,71
+"Tyler Kelly",20.79,612,"Jake Roberts 3",56.74,714,"Jack Nelson 2",53.06,675,290,71
+"Aaron Kelly",20.8,611,"Kyle Roberts 3",56.76,713,"Alex OBrien 2",53.12,674,291,71
+"Ben Kelly",20.8,611,"Logan Roberts 3",56.77,713,"Blake OBrien 2",53.14,673,292,71
+"Cole Kelly",20.8,611,"Max Roberts 3",56.82,711,"Cameron OBrien 2",53.15,673,293,71
+"Drew Kelly",20.8,611,"Noah Roberts 3",56.9,708,"Devon OBrien 2",53.17,672,294,71
+"Ethan Kelly",20.8,611,"Owen Roberts 3",56.92,707,"Ellis OBrien 2",53.18,672,295,71
+"Felix Kelly",20.81,610,"Parker Roberts 3",56.99,705,"Finley OBrien 2",53.25,670,296,71
+"Gavin Kelly",20.82,608,"Quinn Roberts 3",57,705,"Gray OBrien 2",53.25,670,297,70
+"Henry Kelly",20.82,608,"Ryan Roberts 3",57.04,703,"Hunter OBrien 2",53.29,669,298,70
+"Ivan Kelly",20.82,608,"Sam Roberts 3",57.05,703,"Ian OBrien 2",53.29,669,299,70
+"Jack Kelly",20.83,607,"Tyler Roberts 3",57.06,703,"Jake OBrien 2",53.3,668,300,70
+"Alex Lewis",20.83,607,"Aaron Roberts 3",57.06,703,"Kyle OBrien 2",53.3,668,301,70
+"Blake Lewis",20.84,606,"Ben Roberts 3",57.08,702,"Logan OBrien 2",53.31,668,302,70
+"Cameron Lewis",20.85,605,"Cole Roberts 3",57.1,701,"Max OBrien 2",53.38,666,303,70
+"Devon Lewis",20.85,605,"Drew Roberts 3",57.1,701,"Noah OBrien 2",53.39,666,304,70
+"Ellis Lewis",20.86,604,"Ethan Roberts 3",57.11,701,"Owen OBrien 2",53.4,665,305,70
+"Finley Lewis",20.86,604,"Felix Roberts 3",57.13,700,"Parker OBrien 2",53.43,664,306,70
+"Gray Lewis",20.86,604,"Gavin Roberts 3",57.15,699,"Quinn OBrien 2",53.43,664,307,69
+"Hunter Lewis",20.88,601,"Henry Roberts 3",57.17,699,"Ryan OBrien 2",53.44,664,308,69
+"Ian Lewis",20.89,600,"Ivan Roberts 3",57.21,697,"Sam OBrien 2",53.47,663,309,69
+"Jake Lewis",20.91,598,"Jack Roberts 3",57.23,697,"Tyler OBrien 2",53.5,662,310,69
+"Kyle Lewis",20.91,598,"Alex Smith 3",57.24,696,"Aaron OBrien 2",53.53,661,311,69
+"Logan Lewis",20.92,596,"Blake Smith 3",57.26,696,"Ben OBrien 2",53.53,661,312,69
+"Max Lewis",20.92,596,"Cameron Smith 3",57.28,695,"Cole OBrien 2",53.59,660,313,69
+"Noah Lewis",20.93,595,"Devon Smith 3",57.28,695,"Drew OBrien 2",53.62,659,314,69
+"Owen Lewis",20.93,595,"Ellis Smith 3",57.29,695,"Ethan OBrien 2",53.64,658,315,69
+"Parker Lewis",20.94,594,"Finley Smith 3",57.3,694,"Felix OBrien 2",53.69,657,316,69
+"Quinn Lewis",20.94,594,"Gray Smith 3",57.31,694,"Gavin OBrien 2",53.71,656,317,68
+"Ryan Lewis",20.94,594,"Hunter Smith 3",57.32,694,"Henry OBrien 2",53.73,655,318,68
+"Sam Lewis",20.95,593,"Ian Smith 3",57.36,692,"Ivan OBrien 2",53.75,655,319,68
+"Tyler Lewis",20.95,593,"Jake Smith 3",57.38,691,"Jack OBrien 2",53.81,653,320,68
+"Aaron Lewis",20.95,593,"Kyle Smith 3",57.39,691,"Alex Parker 2",53.87,651,321,68
+"Ben Lewis",20.96,592,"Logan Smith 3",57.42,690,"Blake Parker 2",53.93,650,322,68
+"Cole Lewis",20.96,592,"Max Smith 3",57.44,689,"Cameron Parker 2",53.98,648,323,68
+"Drew Lewis",20.96,592,"Noah Smith 3",57.49,688,"Devon Parker 2",54.04,646,324,68
+"Ethan Lewis",20.96,592,"Owen Smith 3",57.51,687,"Ellis Parker 2",54.04,646,325,68
+"Felix Lewis",20.97,590,"Parker Smith 3",57.51,687,"Finley Parker 2",54.06,646,326,68
+"Gavin Lewis",20.97,590,"Quinn Smith 3",57.51,687,"Gray Parker 2",54.07,645,327,67
+"Henry Lewis",20.97,590,"Ryan Smith 3",57.52,687,"Hunter Parker 2",54.09,645,328,67
+"Ivan Lewis",20.97,590,"Sam Smith 3",57.55,686,"Ian Parker 2",54.1,644,329,67
+"Jack Lewis",20.97,590,"Tyler Smith 3",57.58,685,"Jake Parker 2",54.11,644,330,67
+"Alex Miller",20.97,590,"Aaron Smith 3",57.58,685,"Kyle Parker 2",54.12,644,331,67
+"Blake Miller",20.97,590,"Ben Smith 3",57.61,684,"Logan Parker 2",54.15,643,332,67
+"Cameron Miller",20.97,590,"Cole Smith 3",57.63,683,"Max Parker 2",54.16,643,333,67
+"Devon Miller",20.98,589,"Drew Smith 3",57.66,682,"Noah Parker 2",54.19,642,334,67
+"Ellis Miller",20.98,589,"Ethan Smith 3",57.67,681,"Owen Parker 2",54.22,641,335,67
+"Finley Miller",20.98,589,"Felix Smith 3",57.71,680,"Parker Parker 2",54.26,640,336,67
+"Gray Miller",20.98,589,"Gavin Smith 3",57.73,679,"Quinn Parker 2",54.3,638,337,66
+"Hunter Miller",20.98,589,"Henry Smith 3",57.74,679,"Ryan Parker 2",54.31,638,338,66
+"Ian Miller",20.98,589,"Ivan Smith 3",57.74,679,"Sam Parker 2",54.32,638,339,66
+"Jake Miller",20.99,588,"Jack Smith 3",57.74,679,"Tyler Parker 2",54.33,638,340,66
+"Kyle Miller",20.99,588,"Alex Taylor 3",57.78,678,"Aaron Parker 2",54.39,636,341,66
+"Logan Miller",20.99,588,"Blake Taylor 3",57.83,676,"Ben Parker 2",54.42,635,342,66
+"Max Miller",20.99,588,"Cameron Taylor 3",57.83,676,"Cole Parker 2",54.46,634,343,66
+"Noah Miller",20.99,588,"Devon Taylor 3",57.83,676,"Drew Parker 2",54.49,633,344,66
+"Owen Miller",20.99,588,"Ellis Taylor 3",57.86,675,"Ethan Parker 2",54.53,632,345,66
+"Parker Miller",20.99,588,"Finley Taylor 3",57.89,674,"Felix Parker 2",54.53,632,346,66
+"Quinn Miller",20.99,588,"Gray Taylor 3",57.91,673,"Gavin Parker 2",54.55,631,347,65
+"Ryan Miller",20.99,588,"Hunter Taylor 3",57.92,673,"Henry Parker 2",54.55,631,348,65
+"Sam Miller",21,587,"Ian Taylor 3",57.92,673,"Ivan Parker 2",54.57,630,349,65
+"Tyler Miller",21,587,"Jake Taylor 3",57.95,672,"Jack Parker 2",54.58,630,350,65
+"Aaron Miller",21,587,"Kyle Taylor 3",57.96,671,"Alex Quinn 2",54.59,630,351,65
+"Ben Miller",21.01,586,"Logan Taylor 3",57.99,670,"Blake Quinn 2",54.66,628,352,65
+"Cole Miller",21.01,586,"Max Taylor 3",58,670,"Cameron Quinn 2",54.67,627,353,65
+"Drew Miller",21.02,585,"Noah Taylor 3",58.03,669,"Devon Quinn 2",54.74,625,354,65
+"Ethan Miller",21.02,585,"Owen Taylor 3",58.05,668,"Ellis Quinn 2",54.75,625,355,65
+"Felix Miller",21.02,585,"Parker Taylor 3",58.06,668,"Finley Quinn 2",54.75,625,356,65
+"Gavin Miller",21.02,585,"Quinn Taylor 3",58.06,668,"Gray Quinn 2",54.76,625,357,64
+"Henry Miller",21.02,585,"Ryan Taylor 3",58.08,667,"Hunter Quinn 2",54.76,625,358,64
+"Ivan Miller",21.02,585,"Sam Taylor 3",58.11,666,"Ian Quinn 2",54.77,624,359,64
+"Jack Miller",21.02,585,"Tyler Taylor 3",58.11,666,"Jake Quinn 2",54.77,624,360,64
+"Alex Nelson",21.03,583,"Aaron Taylor 3",58.14,665,"Kyle Quinn 2",54.79,624,361,64
+"Blake Nelson",21.03,583,"Ben Taylor 3",58.19,664,"Logan Quinn 2",54.79,624,362,64
+"Cameron Nelson",21.03,583,"Cole Taylor 3",58.2,663,"Max Quinn 2",54.79,624,363,64
+"Devon Nelson",21.03,583,"Drew Taylor 3",58.22,662,"Noah Quinn 2",54.85,622,364,64
+"Ellis Nelson",21.04,582,"Ethan Taylor 3",58.22,662,"Owen Quinn 2",54.85,622,365,64
+"Finley Nelson",21.04,582,"Felix Taylor 3",58.25,661,"Parker Quinn 2",54.87,622,366,64
+"Gray Nelson",21.04,582,"Gavin Taylor 3",58.28,660,"Quinn Quinn 2",54.87,622,367,63
+"Hunter Nelson",21.05,581,"Henry Taylor 3",58.28,660,"Ryan Quinn 2",54.92,620,368,63
+"Ian Nelson",21.05,581,"Ivan Taylor 3",58.29,660,"Sam Quinn 2",54.93,620,369,63
+"Jake Nelson",21.05,581,"Jack Taylor 3",58.33,659,"Tyler Quinn 2",54.94,619,370,63
+"Kyle Nelson",21.05,581,"Alex Wilson 3",58.33,659,"Aaron Quinn 2",54.95,619,371,63
+"Logan Nelson",21.06,580,"Blake Wilson 3",58.36,658,"Ben Quinn 2",54.97,619,372,63
+"Max Nelson",21.06,580,"Cameron Wilson 3",58.4,656,"Cole Quinn 2",54.98,618,373,63
+"Noah Nelson",21.07,579,"Devon Wilson 3",58.42,656,"Drew Quinn 2",54.98,618,374,63
+"Owen Nelson",21.08,577,"Ellis Wilson 3",58.42,656,"Ethan Quinn 2",55.01,617,375,63
+"Parker Nelson",21.09,576,"Finley Wilson 3",58.44,655,"Felix Quinn 2",55.02,617,376,63
+"Quinn Nelson",21.09,576,"Gray Wilson 3",58.46,654,"Gavin Quinn 2",55.02,617,377,62
+"Ryan Nelson",21.1,575,"Hunter Wilson 3",58.47,654,"Henry Quinn 2",55.04,616,378,62
+"Sam Nelson",21.1,575,"Ian Wilson 3",58.48,654,"Ivan Quinn 2",55.05,616,379,62
+"Tyler Nelson",21.1,575,"Jake Wilson 3",58.52,652,"Jack Quinn 2",55.07,616,380,62
+"Aaron Nelson",21.1,575,"Kyle Wilson 3",58.59,650,"Alex Roberts 2",55.1,615,381,62
+"Ben Nelson",21.1,575,"Logan Wilson 3",58.61,649,"Blake Roberts 2",55.11,614,382,62
+"Cole Nelson",21.11,574,"Max Wilson 3",58.63,648,"Cameron Roberts 2",55.14,613,383,62
+"Drew Nelson",21.11,574,"Noah Wilson 3",58.63,648,"Devon Roberts 2",55.14,613,384,62
+"Ethan Nelson",21.11,574,"Owen Wilson 3",58.64,648,"Ellis Roberts 2",55.16,613,385,62
+"Felix Nelson",21.13,571,"Parker Wilson 3",58.65,648,"Finley Roberts 2",55.18,612,386,62
+"Gavin Nelson",21.14,570,"Quinn Wilson 3",58.68,647,"Gray Roberts 2",55.24,610,387,61
+"Henry Nelson",21.14,570,"Ryan Wilson 3",58.69,646,"Hunter Roberts 2",55.3,609,388,61
+"Ivan Nelson",21.15,569,"Sam Wilson 3",58.72,645,"Ian Roberts 2",55.31,608,389,61
+"Jack Nelson",21.15,569,"Tyler Wilson 3",58.74,645,"Jake Roberts 2",55.31,608,390,61
+"Alex OBrien",21.15,569,"Aaron Wilson 3",58.74,645,"Kyle Roberts 2",55.33,608,391,61
+"Blake OBrien",21.15,569,"Ben Wilson 3",58.77,644,"Logan Roberts 2",55.34,607,392,61
+"Cameron OBrien",21.15,569,"Cole Wilson 3",58.8,642,"Max Roberts 2",55.35,607,393,61
+"Devon OBrien",21.15,569,"Drew Wilson 3",58.81,642,"Noah Roberts 2",55.35,607,394,61
+"Ellis OBrien",21.16,568,"Ethan Wilson 3",58.82,642,"Owen Roberts 2",55.35,607,395,61
+"Finley OBrien",21.16,568,"Felix Wilson 3",58.83,641,"Parker Roberts 2",55.4,606,396,61
+"Gray OBrien",21.17,567,"Gavin Wilson 3",58.84,641,"Quinn Roberts 2",55.41,605,397,60
+"Hunter OBrien",21.19,564,"Henry Wilson 3",58.84,641,"Ryan Roberts 2",55.41,605,398,60
+"Ian OBrien",21.19,564,"Ivan Wilson 3",58.87,640,"Sam Roberts 2",55.47,604,399,60
+"Jake OBrien",21.19,564,"Jack Wilson 3",58.87,640,"Tyler Roberts 2",55.48,603,400,60
+"Kyle OBrien",21.19,564,"Alex Adams 3",58.9,639,"Aaron Roberts 2",55.49,603,401,60
+"Logan OBrien",21.2,563,"Blake Adams 3",58.92,638,"Ben Roberts 2",55.5,603,402,60
+"Max OBrien",21.21,562,"Cameron Adams 3",58.94,638,"Cole Roberts 2",55.52,602,403,60
+"Noah OBrien",21.21,562,"Devon Adams 3",58.95,637,"Drew Roberts 2",55.55,601,404,60
+"Owen OBrien",21.23,560,"Ellis Adams 3",58.95,637,"Ethan Roberts 2",55.57,601,405,60
+"Parker OBrien",21.24,558,"Finley Adams 3",59,636,"Felix Roberts 2",55.61,599,406,60
+"Quinn OBrien",21.24,558,"Gray Adams 3",59.04,634,"Gavin Roberts 2",55.63,599,407,59
+"Ryan OBrien",21.24,558,"Hunter Adams 3",59.07,633,"Henry Roberts 2",55.65,598,408,59
+"Sam OBrien",21.24,558,"Ian Adams 3",59.09,632,"Ivan Roberts 2",55.65,598,409,59
+"Tyler OBrien",21.24,558,"Jake Adams 3",59.09,632,"Jack Roberts 2",55.68,597,410,59
+"Aaron OBrien",21.24,558,"Kyle Adams 3",59.1,632,"Alex Smith 2",55.68,597,411,59
+"Ben OBrien",21.24,558,"Logan Adams 3",59.14,631,"Blake Smith 2",55.69,597,412,59
+"Cole OBrien",21.24,558,"Max Adams 3",59.16,630,"Cameron Smith 2",55.72,596,413,59
+"Drew OBrien",21.24,558,"Noah Adams 3",59.16,630,"Devon Smith 2",55.73,596,414,59
+"Ethan OBrien",21.25,557,"Owen Adams 3",59.16,630,"Ellis Smith 2",55.73,596,415,59
+"Felix OBrien",21.26,556,"Parker Adams 3",59.18,629,"Finley Smith 2",55.74,596,416,59
+"Gavin OBrien",21.26,556,"Quinn Adams 3",59.19,629,"Gray Smith 2",55.74,596,417,58
+"Henry OBrien",21.26,556,"Ryan Adams 3",59.21,628,"Hunter Smith 2",55.78,594,418,58
+"Ivan OBrien",21.26,556,"Sam Adams 3",59.29,626,"Ian Smith 2",55.8,594,419,58
+"Jack OBrien",21.27,555,"Tyler Adams 3",59.3,625,"Jake Smith 2",55.81,593,420,58
+"Alex Parker",21.27,555,"Aaron Adams 3",59.31,625,"Kyle Smith 2",55.81,593,421,58
+"Blake Parker",21.27,555,"Ben Adams 3",59.32,625,"Logan Smith 2",55.81,593,422,58
+"Cameron Parker",21.28,554,"Cole Adams 3",59.35,623,"Max Smith 2",55.85,592,423,58
+"Devon Parker",21.28,554,"Drew Adams 3",59.36,623,"Noah Smith 2",55.86,592,424,58
+"Ellis Parker",21.28,554,"Ethan Adams 3",59.41,621,"Owen Smith 2",55.86,592,425,58
+"Finley Parker",21.28,554,"Felix Adams 3",59.41,621,"Parker Smith 2",55.86,592,426,57
+"Gray Parker",21.29,552,"Gavin Adams 3",59.43,621,"Quinn Smith 2",55.87,592,427,57
+"Hunter Parker",21.29,552,"Henry Adams 3",59.44,620,"Ryan Smith 2",55.87,592,428,57
+"Ian Parker",21.29,552,"Ivan Adams 3",59.44,620,"Sam Smith 2",55.89,591,429,57
+"Jake Parker",21.29,552,"Jack Adams 3",59.45,620,"Tyler Smith 2",55.89,591,430,57
+"Kyle Parker",21.3,551,"Alex Baker 3",59.47,619,"Aaron Smith 2",55.92,590,431,57
+"Logan Parker",21.3,551,"Blake Baker 3",59.48,619,"Ben Smith 2",55.95,589,432,57
+"Max Parker",21.3,551,"Cameron Baker 3",59.51,618,"Cole Smith 2",55.99,588,433,57
+"Noah Parker",21.32,549,"Devon Baker 3",59.51,618,"Drew Smith 2",55.99,588,434,57
+"Owen Parker",21.32,549,"Ellis Baker 3",59.53,617,"Ethan Smith 2",56.02,587,435,57
+"Parker Parker",21.32,549,"Finley Baker 3",59.53,617,"Felix Smith 2",56.02,587,436,56
+"Quinn Parker",21.33,548,"Gray Baker 3",59.56,616,"Gavin Smith 2",56.03,587,437,56
+"Ryan Parker",21.34,546,"Hunter Baker 3",59.58,616,"Henry Smith 2",56.04,587,438,56
+"Sam Parker",21.34,546,"Ian Baker 3",59.58,616,"Ivan Smith 2",56.07,586,439,56
+"Tyler Parker",21.35,545,"Jake Baker 3",59.58,616,"Jack Smith 2",56.08,585,440,56
+"Aaron Parker",21.36,544,"Kyle Baker 3",59.61,615,"Alex Taylor 2",56.1,585,441,56
+"Ben Parker",21.36,544,"Logan Baker 3",59.63,614,"Blake Taylor 2",56.12,584,442,56
+"Cole Parker",21.36,544,"Max Baker 3",59.65,613,"Cameron Taylor 2",56.13,584,443,56
+"Drew Parker",21.36,544,"Noah Baker 3",59.65,613,"Devon Taylor 2",56.17,583,444,56
+"Ethan Parker",21.36,544,"Owen Baker 3",59.67,612,"Ellis Taylor 2",56.18,582,445,56
+"Felix Parker",21.37,543,"Parker Baker 3",59.68,612,"Finley Taylor 2",56.21,582,446,56
+"Gavin Parker",21.37,543,"Quinn Baker 3",59.72,611,"Gray Taylor 2",56.22,581,447,55
+"Henry Parker",21.37,543,"Ryan Baker 3",59.74,610,"Hunter Taylor 2",56.24,581,448,55
+"Ivan Parker",21.38,542,"Sam Baker 3",59.76,609,"Ian Taylor 2",56.27,580,449,55
+"Jack Parker",21.39,540,"Tyler Baker 3",59.76,609,"Jake Taylor 2",56.31,579,450,55
+"Alex Quinn",21.4,539,"Aaron Baker 3",59.79,608,"Kyle Taylor 2",56.32,578,451,55
+"Blake Quinn",21.41,538,"Ben Baker 3",59.79,608,"Logan Taylor 2",56.33,578,452,55
+"Cameron Quinn",21.42,537,"Cole Baker 3",59.81,608,"Max Taylor 2",56.34,578,453,55
+"Devon Quinn",21.42,537,"Drew Baker 3",59.83,607,"Noah Taylor 2",56.35,577,454,55
+"Ellis Quinn",21.43,536,"Ethan Baker 3",59.85,606,"Owen Taylor 2",56.36,577,455,55
+"Finley Quinn",21.43,536,"Felix Baker 3",59.9,605,"Parker Taylor 2",56.38,576,456,55
+"Gray Quinn",21.43,536,"Gavin Baker 3",59.91,604,"Quinn Taylor 2",56.39,576,457,54
+"Hunter Quinn",21.43,536,"Henry Baker 3",59.93,603,"Ryan Taylor 2",56.39,576,458,54
+"Ian Quinn",21.43,536,"Ivan Baker 3",59.95,603,"Sam Taylor 2",56.4,576,459,54
+"Jake Quinn",21.44,535,"Jack Baker 3",59.96,602,"Tyler Taylor 2",56.41,576,460,54
+"Kyle Quinn",21.44,535,"Alex Carter 3",59.98,602,"Aaron Taylor 2",56.42,575,461,54
+"Logan Quinn",21.44,535,"Blake Carter 3",60.01,601,"Ben Taylor 2",56.46,574,462,54
+"Max Quinn",21.44,535,"Cameron Carter 3",60.01,601,"Cole Taylor 2",56.46,574,463,54
+"Noah Quinn",21.46,532,"Devon Carter 3",60.03,600,"Drew Taylor 2",56.48,574,464,54
+"Owen Quinn",21.46,532,"Ellis Carter 3",60.03,600,"Ethan Taylor 2",56.5,573,465,54
+"Parker Quinn",21.47,531,"Finley Carter 3",60.08,598,"Felix Taylor 2",56.52,572,466,54
+"Quinn Quinn",21.48,530,"Gray Carter 3",60.18,595,"Gavin Taylor 2",56.52,572,467,53
+"Ryan Quinn",21.48,530,"Hunter Carter 3",60.2,594,"Henry Taylor 2",56.53,572,468,53
+"Sam Quinn",21.48,530,"Ian Carter 3",60.2,594,"Ivan Taylor 2",56.56,571,469,53
+"Tyler Quinn",21.48,530,"Jake Carter 3",60.22,593,"Jack Taylor 2",56.58,571,470,53
+"Aaron Quinn",21.48,530,"Kyle Carter 3",60.28,591,"Alex Wilson 2",56.61,570,471,53
+"Ben Quinn",21.49,529,"Logan Carter 3",60.28,591,"Blake Wilson 2",56.61,570,472,53
+"Cole Quinn",21.5,527,"Max Carter 3",60.35,589,"Cameron Wilson 2",56.62,569,473,53
+"Drew Quinn",21.5,527,"Noah Carter 3",60.36,589,"Devon Wilson 2",56.62,569,474,53
+"Ethan Quinn",21.5,527,"Owen Carter 3",60.38,588,"Ellis Wilson 2",56.65,568,475,53
+"Felix Quinn",21.51,526,"Parker Carter 3",60.39,588,"Finley Wilson 2",56.66,568,476,53
+"Gavin Quinn",21.51,526,"Quinn Carter 3",60.42,587,"Gray Wilson 2",56.67,568,477,52
+"Henry Quinn",21.51,526,"Ryan Carter 3",60.43,586,"Hunter Wilson 2",56.68,568,478,52
+"Ivan Quinn",21.51,526,"Sam Carter 3",60.45,586,"Ian Wilson 2",56.68,568,479,52
+"Jack Quinn",21.52,525,"Tyler Carter 3",60.49,584,"Jake Wilson 2",56.69,567,480,52
+"Alex Roberts",21.52,525,"Aaron Carter 3",60.5,584,"Kyle Wilson 2",56.69,567,481,52
+"Blake Roberts",21.52,525,"Ben Carter 3",60.55,582,"Logan Wilson 2",56.71,567,482,52
+"Cameron Roberts",21.52,525,"Cole Carter 3",60.57,581,"Max Wilson 2",56.72,566,483,52
+"Devon Roberts",21.52,525,"Drew Carter 3",60.63,579,"Noah Wilson 2",56.74,566,484,52
+"Ellis Roberts",21.52,525,"Ethan Carter 3",60.63,579,"Owen Wilson 2",56.74,566,485,52
+"Finley Roberts",21.52,525,"Felix Carter 3",60.66,578,"Parker Wilson 2",56.74,566,486,52
+"Gray Roberts",21.53,524,"Gavin Carter 3",60.67,578,"Quinn Wilson 2",56.74,566,487,51
+"Hunter Roberts",21.53,524,"Henry Carter 3",60.68,578,"Ryan Wilson 2",56.76,565,488,51
+"Ian Roberts",21.53,524,"Ivan Carter 3",60.69,577,"Sam Wilson 2",56.8,564,489,51
+"Jake Roberts",21.55,521,"Jack Carter 3",60.73,576,"Tyler Wilson 2",56.83,563,490,51
+"Kyle Roberts",21.55,521,"Alex Duncan 3",60.73,576,"Aaron Wilson 2",56.85,562,491,51
+"Logan Roberts",21.56,520,"Blake Duncan 3",60.75,575,"Ben Wilson 2",56.85,562,492,51
+"Max Roberts",21.56,520,"Cameron Duncan 3",60.79,574,"Cole Wilson 2",56.86,562,493,51
+"Noah Roberts",21.56,520,"Devon Duncan 3",60.86,571,"Drew Wilson 2",56.87,562,494,51
+"Owen Roberts",21.56,520,"Ellis Duncan 3",60.86,571,"Ethan Wilson 2",56.87,562,495,51
+"Parker Roberts",21.57,519,"Finley Duncan 3",60.89,570,"Felix Wilson 2",56.9,561,496,51
+"Quinn Roberts",21.58,518,"Gray Duncan 3",60.91,570,"Gavin Wilson 2",56.9,561,497,50
+"Ryan Roberts",21.58,518,"Hunter Duncan 3",60.93,569,"Henry Wilson 2",56.93,560,498,50
+"Sam Roberts",21.6,515,"Ian Duncan 3",60.95,568,"Ivan Wilson 2",56.93,560,499,50
+"Tyler Roberts",21.6,515,"Jake Duncan 3",60.96,568,"Jack Wilson 2",56.96,559,500,50
+"Aaron Roberts",21.6,515,"Kyle Duncan 3",61,567,"Alex Adams 2",57,558,501,50
+"Ben Roberts",21.6,515,"Logan Duncan 3",61.02,566,"Blake Adams 2",57.01,558,502,50
+"Cole Roberts",21.61,514,"Max Duncan 3",61.06,564,"Cameron Adams 2",57.04,557,503,50
+"Drew Roberts",21.61,514,"Noah Duncan 3",61.06,564,"Devon Adams 2",57.05,557,504,50
+"Ethan Roberts",21.62,513,"Owen Duncan 3",61.08,564,"Ellis Adams 2",57.07,556,505,50
+"Felix Roberts",21.62,513,"Parker Duncan 3",61.09,563,"Finley Adams 2",57.09,555,506,50
+"Gavin Roberts",21.62,513,"Quinn Duncan 3",61.09,563,"Gray Adams 2",57.09,555,507,49
+"Henry Roberts",21.62,513,"Ryan Duncan 3",61.1,563,"Hunter Adams 2",57.1,555,508,49
+"Ivan Roberts",21.63,512,"Sam Duncan 3",61.11,563,"Ian Adams 2",57.11,555,509,49
+"Jack Roberts",21.63,512,"Tyler Duncan 3",61.12,562,"Jake Adams 2",57.13,554,510,49
+"Alex Smith",21.63,512,"Aaron Duncan 3",61.16,561,"Kyle Adams 2",57.13,554,511,49
+"Blake Smith",21.63,512,"Ben Duncan 3",61.17,561,"Logan Adams 2",57.16,553,512,49
+"Cameron Smith",21.65,510,"Cole Duncan 3",61.18,560,"Max Adams 2",57.16,553,513,49
+"Devon Smith",21.65,510,"Drew Duncan 3",61.2,560,"Noah Adams 2",57.23,551,514,49
+"Ellis Smith",21.65,510,"Ethan Duncan 3",61.22,559,"Owen Adams 2",57.25,551,515,49
+"Finley Smith",21.65,510,"Felix Duncan 3",61.24,558,"Parker Adams 2",57.26,550,516,49
+"Gray Smith",21.65,510,"Gavin Duncan 3",61.25,558,"Quinn Adams 2",57.32,548,517,48
+"Hunter Smith",21.67,507,"Henry Duncan 3",61.3,556,"Ryan Adams 2",57.35,548,518,48
+"Ian Smith",21.68,506,"Ivan Duncan 3",61.31,556,"Sam Adams 2",57.36,547,519,48
+"Jake Smith",21.68,506,"Jack Duncan 3",61.33,555,"Tyler Adams 2",57.37,547,520,48
+"Kyle Smith",21.69,505,"Alex Edwards 3",61.34,555,"Aaron Adams 2",57.38,547,521,48
+"Logan Smith",21.69,505,"Blake Edwards 3",61.43,552,"Ben Adams 2",57.41,546,522,48
+"Max Smith",21.69,505,"Cameron Edwards 3",61.44,551,"Cole Adams 2",57.44,545,523,48
+"Noah Smith",21.69,505,"Devon Edwards 3",61.46,551,"Drew Adams 2",57.46,544,524,48
+"Owen Smith",21.69,505,"Ellis Edwards 3",61.48,550,"Ethan Adams 2",57.47,544,525,48
+"Parker Smith",21.69,505,"Finley Edwards 3",61.49,550,"Felix Adams 2",57.49,543,526,48
+"Quinn Smith",21.7,504,"Gray Edwards 3",61.5,549,"Gavin Adams 2",57.52,543,527,47
+"Ryan Smith",21.71,502,"Hunter Edwards 3",61.51,549,"Henry Adams 2",57.54,542,528,47
+"Sam Smith",21.71,502,"Ian Edwards 3",61.57,547,"Ivan Adams 2",57.54,542,529,47
+"Tyler Smith",21.71,502,"Jake Edwards 3",61.57,547,"Jack Adams 2",57.56,541,530,47
+"Aaron Smith",21.73,500,"Kyle Edwards 3",61.58,547,"Alex Baker 2",57.58,541,531,47
+"Ben Smith",21.73,500,"Logan Edwards 3",61.59,546,"Blake Baker 2",57.62,540,532,47
+"Cole Smith",21.74,499,"Max Edwards 3",61.62,545,"Cameron Baker 2",57.64,539,533,47
+"Drew Smith",21.74,499,"Noah Edwards 3",61.67,543,"Devon Baker 2",57.71,537,534,47
+"Ethan Smith",21.74,499,"Owen Edwards 3",61.68,543,"Ellis Baker 2",57.72,537,535,47
+"Felix Smith",21.74,499,"Parker Edwards 3",61.71,542,"Finley Baker 2",57.8,534,536,47
+"Gavin Smith",21.74,499,"Quinn Edwards 3",61.74,541,"Gray Baker 2",57.82,534,537,46
+"Henry Smith",21.75,498,"Ryan Edwards 3",61.77,540,"Hunter Baker 2",57.86,532,538,46
+"Ivan Smith",21.75,498,"Sam Edwards 3",61.77,540,"Ian Baker 2",57.89,531,539,46
+"Jack Smith",21.75,498,"Tyler Edwards 3",61.79,539,"Jake Baker 2",58.04,527,540,46
+"Alex Taylor",21.75,498,"Aaron Edwards 3",61.81,539,"Kyle Baker 2",58.06,526,541,46
+"Blake Taylor",21.75,498,"Ben Edwards 3",61.83,538,"Logan Baker 2",58.08,526,542,46
+"Cameron Taylor",21.76,496,"Cole Edwards 3",61.86,537,"Max Baker 2",58.12,525,543,46
+"Devon Taylor",21.76,496,"Drew Edwards 3",61.88,536,"Noah Baker 2",58.12,525,544,46
+"Ellis Taylor",21.76,496,"Ethan Edwards 3",61.93,534,"Owen Baker 2",58.19,523,545,46
+"Finley Taylor",21.76,496,"Felix Edwards 3",61.97,533,"Parker Baker 2",58.21,522,546,46
+"Gray Taylor",21.78,494,"Gavin Edwards 3",61.98,533,"Quinn Baker 2",58.23,521,547,45
+"Hunter Taylor",21.78,494,"Henry Edwards 3",61.98,533,"Ryan Baker 2",58.25,521,548,45
+"Ian Taylor",21.8,492,"Ivan Edwards 3",62.01,532,"Sam Baker 2",58.25,521,549,45
+"Jake Taylor",21.81,490,"Jack Edwards 3",62.02,531,"Tyler Baker 2",58.27,520,550,45
+"Kyle Taylor",21.81,490,"Alex Foster 3",62.04,531,"Aaron Baker 2",58.27,520,551,45
+"Logan Taylor",21.82,489,"Blake Foster 3",62.06,530,"Ben Baker 2",58.27,520,552,45
+"Max Taylor",21.82,489,"Cameron Foster 3",62.06,530,"Cole Baker 2",58.29,520,553,45
+"Noah Taylor",21.82,489,"Devon Foster 3",62.06,530,"Drew Baker 2",58.3,519,554,45
+"Owen Taylor",21.83,488,"Ellis Foster 3",62.09,529,"Ethan Baker 2",58.32,519,555,45
+"Parker Taylor",21.83,488,"Finley Foster 3",62.09,529,"Felix Baker 2",58.33,518,556,45
+"Quinn Taylor",21.84,487,"Gray Foster 3",62.1,529,"Gavin Baker 2",58.37,517,557,44
+"Ryan Taylor",21.84,487,"Hunter Foster 3",62.15,527,"Henry Baker 2",58.41,516,558,44
+"Sam Taylor",21.84,487,"Ian Foster 3",62.17,526,"Ivan Baker 2",58.47,514,559,44
+"Tyler Taylor",21.85,486,"Jake Foster 3",62.18,526,"Jack Baker 2",58.49,514,560,44
+"Aaron Taylor",21.85,486,"Kyle Foster 3",62.21,525,"Alex Carter 2",58.53,512,561,44
+"Ben Taylor",21.86,485,"Logan Foster 3",62.24,524,"Blake Carter 2",58.54,512,562,44
+"Cole Taylor",21.86,485,"Max Foster 3",62.25,523,"Cameron Carter 2",58.58,511,563,44
+"Drew Taylor",21.87,483,"Noah Foster 3",62.26,523,"Devon Carter 2",58.6,510,564,44
+"Ethan Taylor",21.87,483,"Owen Foster 3",62.28,522,"Ellis Carter 2",58.6,510,565,44
+"Felix Taylor",21.87,483,"Parker Foster 3",62.3,522,"Finley Carter 2",58.63,509,566,44
+"Gavin Taylor",21.87,483,"Quinn Foster 3",62.32,521,"Gray Carter 2",58.66,509,567,43
+"Henry Taylor",21.88,482,"Ryan Foster 3",62.32,521,"Hunter Carter 2",58.69,508,568,43
+"Ivan Taylor",21.88,482,"Sam Foster 3",62.33,521,"Ian Carter 2",58.69,508,569,43
+"Jack Taylor",21.88,482,"Tyler Foster 3",62.35,520,"Jake Carter 2",58.72,507,570,43
+"Alex Wilson",21.88,482,"Aaron Foster 3",62.36,520,"Kyle Carter 2",58.76,506,571,43
+"Blake Wilson",21.88,482,"Ben Foster 3",62.37,519,"Logan Carter 2",58.78,505,572,43
+"Cameron Wilson",21.89,481,"Cole Foster 3",62.38,519,"Max Carter 2",58.8,504,573,43
+"Devon Wilson",21.89,481,"Drew Foster 3",62.4,518,"Noah Carter 2",58.81,504,574,43
+"Ellis Wilson",21.89,481,"Ethan Foster 3",62.41,518,"Owen Carter 2",58.85,503,575,43
+"Finley Wilson",21.89,481,"Felix Foster 3",62.41,518,"Parker Carter 2",58.87,502,576,43
+"Gray Wilson",21.9,480,"Gavin Foster 3",62.43,517,"Quinn Carter 2",58.87,502,577,42
+"Hunter Wilson",21.9,480,"Henry Foster 3",62.45,516,"Ryan Carter 2",58.88,502,578,42
+"Ian Wilson",21.93,476,"Ivan Foster 3",62.46,516,"Sam Carter 2",58.9,501,579,42
+"Jake Wilson",21.93,476,"Jack Foster 3",62.48,515,"Tyler Carter 2",58.91,501,580,42
+"Kyle Wilson",21.94,475,"Alex Green 3",62.53,514,"Aaron Carter 2",58.91,501,581,42
+"Logan Wilson",21.95,474,"Blake Green 3",62.54,513,"Ben Carter 2",59,498,582,42
+"Max Wilson",21.95,474,"Cameron Green 3",62.56,513,"Cole Carter 2",59.02,498,583,42
+"Noah Wilson",21.96,473,"Devon Green 3",62.58,512,"Drew Carter 2",59.03,497,584,42
+"Owen Wilson",21.97,471,"Ellis Green 3",62.6,511,"Ethan Carter 2",59.03,497,585,42
+"Parker Wilson",21.97,471,"Finley Green 3",62.61,511,"Felix Carter 2",59.05,497,586,42
+"Quinn Wilson",21.98,470,"Gray Green 3",62.63,510,"Gavin Carter 2",59.06,497,587,41
+"Ryan Wilson",21.99,469,"Hunter Green 3",62.64,510,"Henry Carter 2",59.07,496,588,41
+"Sam Wilson",21.99,469,"Ian Green 3",62.69,508,"Ivan Carter 2",59.09,496,589,41
+"Tyler Wilson",22,468,"Jake Green 3",62.71,508,"Jack Carter 2",59.1,495,590,41
+"Aaron Wilson",22,468,"Kyle Green 3",62.72,507,"Alex Duncan 2",59.14,494,591,41
+"Ben Wilson",22.01,467,"Logan Green 3",62.73,507,"Blake Duncan 2",59.16,494,592,41
+"Cole Wilson",22.01,467,"Max Green 3",62.74,506,"Cameron Duncan 2",59.18,493,593,41
+"Drew Wilson",22.02,465,"Noah Green 3",62.75,506,"Devon Duncan 2",59.2,492,594,41
+"Ethan Wilson",22.02,465,"Owen Green 3",62.78,505,"Ellis Duncan 2",59.28,490,595,41
+"Felix Wilson",22.03,464,"Parker Green 3",62.79,505,"Finley Duncan 2",59.28,490,596,41
+"Gavin Wilson",22.04,463,"Quinn Green 3",62.85,503,"Gray Duncan 2",59.3,489,597,40
+"Henry Wilson",22.04,463,"Ryan Green 3",62.86,502,"Hunter Duncan 2",59.31,489,598,40
+"Ivan Wilson",22.05,462,"Sam Green 3",62.87,502,"Ian Duncan 2",59.33,489,599,40
+"Jack Wilson",22.05,462,"Tyler Green 3",62.87,502,"Jake Duncan 2",59.35,488,600,40
+"Alex Adams",22.06,461,"Aaron Green 3",62.91,501,"Kyle Duncan 2",59.35,488,601,40
+"Blake Adams",22.06,461,"Ben Green 3",62.98,498,"Logan Duncan 2",59.36,488,602,40
+"Cameron Adams",22.07,460,"Cole Green 3",62.99,498,"Max Duncan 2",59.37,487,603,40
+"Devon Adams",22.07,460,"Drew Green 3",63.05,496,"Noah Duncan 2",59.4,486,604,40
+"Ellis Adams",22.08,458,"Ethan Green 3",63.05,496,"Owen Duncan 2",59.45,485,605,40
+"Finley Adams",22.08,458,"Felix Green 3",63.06,495,"Parker Duncan 2",59.45,485,606,40
+"Gray Adams",22.09,457,"Gavin Green 3",63.07,495,"Quinn Duncan 2",59.47,484,607,39
+"Hunter Adams",22.09,457,"Henry Green 3",63.08,495,"Ryan Duncan 2",59.49,484,608,39
+"Ian Adams",22.09,457,"Ivan Green 3",63.08,495,"Sam Duncan 2",59.51,483,609,39
+"Jake Adams",22.1,456,"Jack Green 3",63.1,494,"Tyler Duncan 2",59.52,483,610,39
+"Kyle Adams",22.1,456,"Alex Hall 3",63.1,494,"Aaron Duncan 2",59.57,481,611,39
+"Logan Adams",22.1,456,"Blake Hall 3",63.12,493,"Ben Duncan 2",59.57,481,612,39
+"Max Adams",22.11,455,"Cameron Hall 3",63.15,492,"Cole Duncan 2",59.59,481,613,39
+"Noah Adams",22.11,455,"Devon Hall 3",63.15,492,"Drew Duncan 2",59.62,480,614,39
+"Owen Adams",22.11,455,"Ellis Hall 3",63.16,492,"Ethan Duncan 2",59.71,477,615,39
+"Parker Adams",22.12,454,"Finley Hall 3",63.21,490,"Felix Duncan 2",59.72,477,616,39
+"Quinn Adams",22.12,454,"Gray Hall 3",63.27,488,"Gavin Duncan 2",59.73,477,617,38
+"Ryan Adams",22.12,454,"Hunter Hall 3",63.3,487,"Henry Duncan 2",59.76,476,618,38
+"Sam Adams",22.12,454,"Ian Hall 3",63.32,486,"Ivan Duncan 2",59.79,475,619,38
+"Tyler Adams",22.13,452,"Jake Hall 3",63.34,486,"Jack Duncan 2",59.81,474,620,38
+"Aaron Adams",22.13,452,"Kyle Hall 3",63.37,485,"Alex Edwards 2",59.81,474,621,38
+"Ben Adams",22.13,452,"Logan Hall 3",63.4,484,"Blake Edwards 2",59.84,473,622,38
+"Cole Adams",22.13,452,"Max Hall 3",63.42,483,"Cameron Edwards 2",59.85,473,623,38
+"Drew Adams",22.14,451,"Noah Hall 3",63.42,483,"Devon Edwards 2",59.87,472,624,38
+"Ethan Adams",22.14,451,"Owen Hall 3",63.43,483,"Ellis Edwards 2",59.9,472,625,38
+"Felix Adams",22.14,451,"Parker Hall 3",63.44,482,"Finley Edwards 2",59.92,471,626,38
+"Gavin Adams",22.14,451,"Quinn Hall 3",63.44,482,"Gray Edwards 2",59.93,471,627,37
+"Henry Adams",22.15,450,"Ryan Hall 3",63.46,482,"Hunter Edwards 2",60.01,468,628,37
+"Ivan Adams",22.16,449,"Sam Hall 3",63.46,482,"Ian Edwards 2",60.04,467,629,37
+"Jack Adams",22.16,449,"Tyler Hall 3",63.49,481,"Jake Edwards 2",60.09,466,630,37
+"Alex Baker",22.16,449,"Aaron Hall 3",63.5,480,"Kyle Edwards 2",60.15,464,631,37
+"Blake Baker",22.16,449,"Ben Hall 3",63.5,480,"Logan Edwards 2",60.17,464,632,37
+"Cameron Baker",22.17,448,"Cole Hall 3",63.52,480,"Max Edwards 2",60.18,463,633,37
+"Devon Baker",22.17,448,"Drew Hall 3",63.55,479,"Noah Edwards 2",60.19,463,634,37
+"Ellis Baker",22.17,448,"Ethan Hall 3",63.55,479,"Owen Edwards 2",60.21,462,635,37
+"Finley Baker",22.2,444,"Felix Hall 3",63.58,477,"Parker Edwards 2",60.23,462,636,37
+"Gray Baker",22.2,444,"Gavin Hall 3",63.59,477,"Quinn Edwards 2",60.25,461,637,36
+"Hunter Baker",22.2,444,"Henry Hall 3",63.61,476,"Ryan Edwards 2",60.27,461,638,36
+"Ian Baker",22.22,442,"Ivan Hall 3",63.62,476,"Sam Edwards 2",60.29,460,639,36
+"Jake Baker",22.22,442,"Jack Hall 3",63.64,475,"Tyler Edwards 2",60.31,459,640,36
+"Kyle Baker",22.22,442,"Alex Jackson 3",63.65,475,"Aaron Edwards 2",60.32,459,641,36
+"Logan Baker",22.22,442,"Blake Jackson 3",63.68,474,"Ben Edwards 2",60.35,458,642,36
+"Max Baker",22.23,440,"Cameron Jackson 3",63.69,474,"Cole Edwards 2",60.36,458,643,36
+"Noah Baker",22.23,440,"Devon Jackson 3",63.69,474,"Drew Edwards 2",60.39,457,644,36
+"Owen Baker",22.23,440,"Ellis Jackson 3",63.71,473,"Ethan Edwards 2",60.41,456,645,36
+"Parker Baker",22.23,440,"Finley Jackson 3",63.73,472,"Felix Edwards 2",60.41,456,646,36
+"Quinn Baker",22.23,440,"Gray Jackson 3",63.75,472,"Gavin Edwards 2",60.43,456,647,35
+"Ryan Baker",22.24,439,"Hunter Jackson 3",63.77,471,"Henry Edwards 2",60.44,455,648,35
+"Sam Baker",22.24,439,"Ian Jackson 3",63.77,471,"Ivan Edwards 2",60.44,455,649,35
+"Tyler Baker",22.24,439,"Jake Jackson 3",63.78,471,"Jack Edwards 2",60.45,455,650,35
+"Aaron Baker",22.25,438,"Kyle Jackson 3",63.83,469,"Alex Foster 2",60.46,455,651,35
+"Ben Baker",22.25,438,"Logan Jackson 3",63.85,468,"Blake Foster 2",60.46,455,652,35
+"Cole Baker",22.26,437,"Max Jackson 3",63.86,468,"Cameron Foster 2",60.47,455,653,35
+"Drew Baker",22.26,437,"Noah Jackson 3",63.91,466,"Devon Foster 2",60.54,452,654,35
+"Ethan Baker",22.26,437,"Owen Jackson 3",63.91,466,"Ellis Foster 2",60.55,452,655,35
+"Felix Baker",22.26,437,"Parker Jackson 3",63.96,464,"Finley Foster 2",60.59,451,656,35
+"Gavin Baker",22.26,437,"Quinn Jackson 3",63.98,464,"Gray Foster 2",60.62,450,657,34
+"Henry Baker",22.27,436,"Ryan Jackson 3",63.98,464,"Hunter Foster 2",60.63,450,658,34
+"Ivan Baker",22.27,436,"Sam Jackson 3",64,463,"Ian Foster 2",60.67,449,659,34
+"Jack Baker",22.27,436,"Tyler Jackson 3",64.04,462,"Jake Foster 2",60.67,449,660,34
+"Alex Carter",22.27,436,"Aaron Jackson 3",64.04,462,"Kyle Foster 2",60.67,449,661,34
+"Blake Carter",22.27,436,"Ben Jackson 3",64.04,462,"Logan Foster 2",60.68,448,662,34
+"Cameron Carter",22.28,435,"Cole Jackson 3",64.06,461,"Max Foster 2",60.69,448,663,34
+"Devon Carter",22.29,433,"Drew Jackson 3",64.07,461,"Noah Foster 2",60.71,447,664,34
+"Ellis Carter",22.29,433,"Ethan Jackson 3",64.09,460,"Owen Foster 2",60.73,447,665,34
+"Finley Carter",22.3,432,"Felix Jackson 3",64.14,458,"Parker Foster 2",60.74,447,666,34
+"Gray Carter",22.3,432,"Gavin Jackson 3",64.14,458,"Quinn Foster 2",60.75,446,667,33
+"Hunter Carter",22.3,432,"Henry Jackson 3",64.17,457,"Ryan Foster 2",60.75,446,668,33
+"Ian Carter",22.31,431,"Ivan Jackson 3",64.17,457,"Sam Foster 2",60.76,446,669,33
+"Jake Carter",22.31,431,"Jack Jackson 3",64.18,457,"Tyler Foster 2",60.78,445,670,33
+"Kyle Carter",22.31,431,"Alex King 3",64.19,456,"Aaron Foster 2",60.79,445,671,33
+"Logan Carter",22.31,431,"Blake King 3",64.2,456,"Ben Foster 2",60.86,443,672,33
+"Max Carter",22.31,431,"Cameron King 3",64.2,456,"Cole Foster 2",60.89,442,673,33
+"Noah Carter",22.31,431,"Devon King 3",64.22,455,"Drew Foster 2",60.9,442,674,33
+"Owen Carter",22.32,430,"Ellis King 3",64.25,454,"Ethan Foster 2",60.9,442,675,33
+"Parker Carter",22.32,430,"Finley King 3",64.25,454,"Felix Foster 2",60.92,441,676,33
+"Quinn Carter",22.33,429,"Gray King 3",64.31,452,"Gavin Foster 2",60.93,441,677,32
+"Ryan Carter",22.33,429,"Hunter King 3",64.33,452,"Henry Foster 2",60.94,441,678,32
+"Sam Carter",22.33,429,"Ian King 3",64.34,451,"Ivan Foster 2",60.95,440,679,32
+"Tyler Carter",22.34,427,"Jake King 3",64.35,451,"Jack Foster 2",60.97,440,680,32
+"Aaron Carter",22.34,427,"Kyle King 3",64.38,450,"Alex Green 2",60.98,439,681,32
+"Ben Carter",22.35,426,"Logan King 3",64.39,450,"Blake Green 2",61,439,682,32
+"Cole Carter",22.35,426,"Max King 3",64.42,449,"Cameron Green 2",61.03,438,683,32
+"Drew Carter",22.36,425,"Noah King 3",64.42,449,"Devon Green 2",61.03,438,684,32
+"Ethan Carter",22.36,425,"Owen King 3",64.44,448,"Ellis Green 2",61.05,437,685,32
+"Felix Carter",22.37,424,"Parker King 3",64.45,447,"Finley Green 2",61.12,435,686,32
+"Gavin Carter",22.37,424,"Quinn King 3",64.48,446,"Gray Green 2",61.14,435,687,31
+"Henry Carter",22.38,423,"Ryan King 3",64.48,446,"Hunter Green 2",61.2,433,688,31
+"Ivan Carter",22.38,423,"Sam King 3",64.52,445,"Ian Green 2",61.22,432,689,31
+"Jack Carter",22.38,423,"Tyler King 3",64.52,445,"Jake Green 2",61.22,432,690,31
+"Alex Duncan",22.38,423,"Aaron King 3",64.56,444,"Kyle Green 2",61.29,430,691,31
+"Blake Duncan",22.38,423,"Ben King 3",64.57,443,"Logan Green 2",61.3,430,692,31
+"Cameron Duncan",22.38,423,"Cole King 3",64.62,442,"Max Green 2",61.31,430,693,31
+"Devon Duncan",22.38,423,"Drew King 3",64.65,441,"Noah Green 2",61.34,429,694,31
+"Ellis Duncan",22.39,421,"Ethan King 3",64.69,439,"Owen Green 2",61.35,428,695,31
+"Finley Duncan",22.39,421,"Felix King 3",64.75,437,"Parker Green 2",61.36,428,696,31
+"Gray Duncan",22.41,419,"Gavin King 3",64.83,434,"Quinn Green 2",61.36,428,697,30
+"Hunter Duncan",22.42,418,"Henry King 3",64.84,434,"Ryan Green 2",61.38,427,698,30
+"Ian Duncan",22.42,418,"Ivan King 3",64.84,434,"Sam Green 2",61.4,427,699,30
+"Jake Duncan",22.43,417,"Jack King 3",64.92,431,"Tyler Green 2",61.41,427,700,30
+"Kyle Duncan",22.43,417,"Alex Anderson 4",64.95,430,"Aaron Green 2",61.42,426,701,30
+"Logan Duncan",22.43,417,"Blake Anderson 4",64.96,430,"Ben Green 2",61.43,426,702,30
+"Max Duncan",22.43,417,"Cameron Anderson 4",64.99,429,"Cole Green 2",61.44,426,703,30
+"Noah Duncan",22.44,415,"Devon Anderson 4",65,428,"Drew Green 2",61.46,425,704,30
+"Owen Duncan",22.45,414,"Ellis Anderson 4",65.01,428,"Ethan Green 2",61.48,424,705,30
+"Parker Duncan",22.45,414,"Finley Anderson 4",65.04,427,"Felix Green 2",61.52,423,706,30
+"Quinn Duncan",22.46,413,"Gray Anderson 4",65.07,426,"Gavin Green 2",61.54,423,707,29
+"Ryan Duncan",22.46,413,"Hunter Anderson 4",65.08,426,"Henry Green 2",61.58,421,708,29
+"Sam Duncan",22.47,412,"Ian Anderson 4",65.1,425,"Ivan Green 2",61.6,421,709,29
+"Tyler Duncan",22.48,411,"Jake Anderson 4",65.11,425,"Jack Green 2",61.62,420,710,29
+"Aaron Duncan",22.49,410,"Kyle Anderson 4",65.12,424,"Alex Hall 2",61.64,420,711,29
+"Ben Duncan",22.49,410,"Logan Anderson 4",65.15,423,"Blake Hall 2",61.68,419,712,29
+"Cole Duncan",22.5,408,"Max Anderson 4",65.15,423,"Cameron Hall 2",61.69,418,713,29
+"Drew Duncan",22.5,408,"Noah Anderson 4",65.16,423,"Devon Hall 2",61.72,417,714,29
+"Ethan Duncan",22.5,408,"Owen Anderson 4",65.19,422,"Ellis Hall 2",61.72,417,715,29
+"Felix Duncan",22.5,408,"Parker Anderson 4",65.21,421,"Finley Hall 2",61.76,416,716,28
+"Gavin Duncan",22.5,408,"Quinn Anderson 4",65.21,421,"Gray Hall 2",61.77,416,717,28
+"Henry Duncan",22.51,407,"Ryan Anderson 4",65.23,421,"Hunter Hall 2",61.82,414,718,28
+"Ivan Duncan",22.51,407,"Sam Anderson 4",65.25,420,"Ian Hall 2",61.83,414,719,28
+"Jack Duncan",22.52,406,"Tyler Anderson 4",65.25,420,"Jake Hall 2",61.84,414,720,28
+"Alex Edwards",22.52,406,"Aaron Anderson 4",65.27,419,"Kyle Hall 2",61.88,413,721,28
+"Blake Edwards",22.53,405,"Ben Anderson 4",65.28,419,"Logan Hall 2",61.91,412,722,28
+"Cameron Edwards",22.53,405,"Cole Anderson 4",65.31,418,"Max Hall 2",62.01,409,723,28
+"Devon Edwards",22.55,402,"Drew Anderson 4",65.33,417,"Noah Hall 2",62.02,408,724,28
+"Ellis Edwards",22.55,402,"Ethan Anderson 4",65.33,417,"Owen Hall 2",62.02,408,725,28
+"Finley Edwards",22.56,401,"Felix Anderson 4",65.34,417,"Parker Hall 2",62.04,408,726,28
+"Gray Edwards",22.57,400,"Gavin Anderson 4",65.36,416,"Quinn Hall 2",62.07,407,727,27
+"Hunter Edwards",22.57,400,"Henry Anderson 4",65.39,415,"Ryan Hall 2",62.13,405,728,27
+"Ian Edwards",22.58,399,"Ivan Anderson 4",65.41,414,"Sam Hall 2",62.18,404,729,27
+"Jake Edwards",22.58,399,"Jack Anderson 4",65.41,414,"Tyler Hall 2",62.19,403,730,27
+"Kyle Edwards",22.58,399,"Alex Brown 4",65.41,414,"Aaron Hall 2",62.21,403,731,27
+"Logan Edwards",22.59,398,"Blake Brown 4",65.43,414,"Ben Hall 2",62.22,402,732,27
+"Max Edwards",22.6,396,"Cameron Brown 4",65.43,414,"Cole Hall 2",62.23,402,733,27
+"Noah Edwards",22.61,395,"Devon Brown 4",65.43,414,"Drew Hall 2",62.28,401,734,27
+"Owen Edwards",22.61,395,"Ellis Brown 4",65.45,413,"Ethan Hall 2",62.31,400,735,27
+"Parker Edwards",22.62,394,"Finley Brown 4",65.45,413,"Felix Hall 2",62.31,400,736,27
+"Quinn Edwards",22.62,394,"Gray Brown 4",65.45,413,"Gavin Hall 2",62.32,399,737,26
+"Ryan Edwards",22.62,394,"Hunter Brown 4",65.48,412,"Henry Hall 2",62.34,399,738,26
+"Sam Edwards",22.62,394,"Ian Brown 4",65.49,412,"Ivan Hall 2",62.39,397,739,26
+"Tyler Edwards",22.63,393,"Jake Brown 4",65.49,412,"Jack Hall 2",62.4,397,740,26
+"Aaron Edwards",22.63,393,"Kyle Brown 4",65.52,411,"Alex Jackson 2",62.42,396,741,26
+"Ben Edwards",22.64,392,"Logan Brown 4",65.54,410,"Blake Jackson 2",62.45,396,742,26
+"Cole Edwards",22.64,392,"Max Brown 4",65.55,410,"Cameron Jackson 2",62.45,396,743,26
+"Drew Edwards",22.64,392,"Noah Brown 4",65.6,408,"Devon Jackson 2",62.45,396,744,26
+"Ethan Edwards",22.65,390,"Owen Brown 4",65.61,407,"Ellis Jackson 2",62.48,395,745,26
+"Felix Edwards",22.65,390,"Parker Brown 4",65.62,407,"Finley Jackson 2",62.48,395,746,26
+"Gavin Edwards",22.66,389,"Quinn Brown 4",65.64,406,"Gray Jackson 2",62.54,393,747,25
+"Henry Edwards",22.66,389,"Ryan Brown 4",65.65,406,"Hunter Jackson 2",62.55,393,748,25
+"Ivan Edwards",22.66,389,"Sam Brown 4",65.66,406,"Ian Jackson 2",62.56,392,749,25
+"Jack Edwards",22.66,389,"Tyler Brown 4",65.67,405,"Jake Jackson 2",62.57,392,750,25
+"Alex Foster",22.66,389,"Aaron Brown 4",65.67,405,"Kyle Jackson 2",62.6,391,751,25
+"Blake Foster",22.67,388,"Ben Brown 4",65.73,403,"Logan Jackson 2",62.63,390,752,25
+"Cameron Foster",22.67,388,"Cole Brown 4",65.75,403,"Max Jackson 2",62.69,388,753,25
+"Devon Foster",22.68,387,"Drew Brown 4",65.76,402,"Noah Jackson 2",62.72,388,754,25
+"Ellis Foster",22.68,387,"Ethan Brown 4",65.77,402,"Owen Jackson 2",62.74,387,755,25
+"Finley Foster",22.68,387,"Felix Brown 4",65.81,401,"Parker Jackson 2",62.76,386,756,25
+"Gray Foster",22.69,386,"Gavin Brown 4",65.83,400,"Quinn Jackson 2",62.82,385,757,24
+"Hunter Foster",22.69,386,"Henry Brown 4",65.85,399,"Ryan Jackson 2",62.82,385,758,24
+"Ian Foster",22.69,386,"Ivan Brown 4",65.91,397,"Sam Jackson 2",62.83,384,759,24
+"Jake Foster",22.7,385,"Jack Brown 4",65.92,397,"Tyler Jackson 2",62.84,384,760,24
+"Kyle Foster",22.71,383,"Alex Clark 4",65.98,395,"Aaron Jackson 2",62.85,384,761,24
+"Logan Foster",22.72,382,"Blake Clark 4",66,394,"Ben Jackson 2",62.87,383,762,24
+"Max Foster",22.72,382,"Cameron Clark 4",66.02,393,"Cole Jackson 2",62.89,382,763,24
+"Noah Foster",22.72,382,"Devon Clark 4",66.03,393,"Drew Jackson 2",62.94,381,764,24
+"Owen Foster",22.72,382,"Ellis Clark 4",66.03,393,"Ethan Jackson 2",62.98,380,765,24
+"Parker Foster",22.72,382,"Finley Clark 4",66.05,392,"Felix Jackson 2",63,379,766,24
+"Quinn Foster",22.72,382,"Gray Clark 4",66.06,392,"Gavin Jackson 2",63,379,767,23
+"Ryan Foster",22.72,382,"Hunter Clark 4",66.07,392,"Henry Jackson 2",63.02,379,768,23
+"Sam Foster",22.73,381,"Ian Clark 4",66.13,389,"Ivan Jackson 2",63.02,379,769,23
+"Tyler Foster",22.73,381,"Jake Clark 4",66.19,387,"Jack Jackson 2",63.05,378,770,23
+"Aaron Foster",22.73,381,"Kyle Clark 4",66.2,387,"Alex King 2",63.06,377,771,23
+"Ben Foster",22.73,381,"Logan Clark 4",66.21,387,"Blake King 2",63.07,377,772,23
+"Cole Foster",22.74,380,"Max Clark 4",66.25,385,"Cameron King 2",63.07,377,773,23
+"Drew Foster",22.74,380,"Noah Clark 4",66.25,385,"Devon King 2",63.12,376,774,23
+"Ethan Foster",22.74,380,"Owen Clark 4",66.27,385,"Ellis King 2",63.16,374,775,23
+"Felix Foster",22.74,380,"Parker Clark 4",66.32,383,"Finley King 2",63.24,372,776,23
+"Gavin Foster",22.75,379,"Quinn Clark 4",66.34,382,"Gray King 2",63.3,370,777,22
+"Henry Foster",22.75,379,"Ryan Clark 4",66.37,381,"Hunter King 2",63.32,370,778,22
+"Ivan Foster",22.75,379,"Sam Clark 4",66.39,381,"Ian King 2",63.32,370,779,22
+"Jack Foster",22.75,379,"Tyler Clark 4",66.44,379,"Jake King 2",63.34,369,780,22
+"Alex Green",22.75,379,"Aaron Clark 4",66.47,378,"Kyle King 2",63.36,368,781,22
+"Blake Green",22.75,379,"Ben Clark 4",66.5,377,"Logan King 2",63.39,368,782,22
+"Cameron Green",22.76,377,"Cole Clark 4",66.51,376,"Max King 2",63.43,366,783,22
+"Devon Green",22.76,377,"Drew Clark 4",66.56,375,"Noah King 2",63.51,364,784,22
+"Ellis Green",22.77,376,"Ethan Clark 4",66.57,374,"Owen King 2",63.57,362,785,22
+"Finley Green",22.77,376,"Felix Clark 4",66.58,374,"Parker King 2",63.57,362,786,22
+"Gray Green",22.77,376,"Gavin Clark 4",66.6,373,"Quinn King 2",63.59,362,787,21
+"Hunter Green",22.77,376,"Henry Clark 4",66.64,372,"Ryan King 2",63.66,359,788,21
+"Ian Green",22.77,376,"Ivan Clark 4",66.66,371,"Sam King 2",63.67,359,789,21
+"Jake Green",22.77,376,"Jack Clark 4",66.67,371,"Tyler King 2",63.7,358,790,21
+"Kyle Green",22.77,376,"Alex Davis 4",66.71,369,"Aaron King 2",63.73,357,791,21
+"Logan Green",22.78,375,"Blake Davis 4",66.71,369,"Ben King 2",63.75,357,792,21
+"Max Green",22.78,375,"Cameron Davis 4",66.74,368,"Cole King 2",63.78,356,793,21
+"Noah Green",22.78,375,"Devon Davis 4",66.81,366,"Drew King 2",63.78,356,794,21
+"Owen Green",22.78,375,"Ellis Davis 4",66.81,366,"Ethan King 2",63.81,355,795,21
+"Parker Green",22.78,375,"Finley Davis 4",66.84,365,"Felix King 2",63.85,354,796,21
+"Quinn Green",22.78,375,"Gray Davis 4",66.87,364,"Gavin King 2",63.9,352,797,20
+"Ryan Green",22.79,374,"Hunter Davis 4",66.9,363,"Henry King 2",63.93,351,798,20
+"Sam Green",22.79,374,"Ian Davis 4",66.94,362,"Ivan King 2",63.99,350,799,20
+"Tyler Green",22.8,373,"Jake Davis 4",66.99,360,"Jack King 2",64,349,800,20
+"Aaron Green",22.8,373,"Kyle Davis 4",67,359,"Alex Anderson 3",64,349,801,20
+"Ben Green",22.8,373,"Logan Davis 4",67.02,359,"Blake Anderson 3",64.03,348,802,20
+"Cole Green",22.8,373,"Max Davis 4",67.03,358,"Cameron Anderson 3",64.03,348,803,20
+"Drew Green",22.82,370,"Noah Davis 4",67.06,357,"Devon Anderson 3",64.09,347,804,20
+"Ethan Green",22.83,369,"Owen Davis 4",67.07,357,"Ellis Anderson 3",64.1,346,805,20
+"Felix Green",22.83,369,"Parker Davis 4",67.07,357,"Finley Anderson 3",64.11,346,806,20
+"Gavin Green",22.83,369,"Quinn Davis 4",67.07,357,"Gray Anderson 3",64.14,345,807,19
+"Henry Green",22.84,368,"Ryan Davis 4",67.1,356,"Hunter Anderson 3",64.21,343,808,19
+"Ivan Green",22.86,365,"Sam Davis 4",67.1,356,"Ian Anderson 3",64.25,342,809,19
+"Jack Green",22.86,365,"Tyler Davis 4",67.12,355,"Jake Anderson 3",64.33,340,810,19
+"Alex Hall",22.87,364,"Aaron Davis 4",67.13,355,"Kyle Anderson 3",64.37,338,811,19
+"Blake Hall",22.88,363,"Ben Davis 4",67.15,354,"Logan Anderson 3",64.37,338,812,19
+"Cameron Hall",22.88,363,"Cole Davis 4",67.18,353,"Max Anderson 3",64.44,336,813,19
+"Devon Hall",22.88,363,"Drew Davis 4",67.21,352,"Noah Anderson 3",64.49,335,814,19
+"Ellis Hall",22.88,363,"Ethan Davis 4",67.21,352,"Owen Anderson 3",64.5,334,815,19
+"Finley Hall",22.89,362,"Felix Davis 4",67.23,352,"Parker Anderson 3",64.51,334,816,19
+"Gray Hall",22.9,361,"Gavin Davis 4",67.24,351,"Quinn Anderson 3",64.52,334,817,18
+"Hunter Hall",22.9,361,"Henry Davis 4",67.25,351,"Ryan Anderson 3",64.57,332,818,18
+"Ian Hall",22.9,361,"Ivan Davis 4",67.27,350,"Sam Anderson 3",64.58,332,819,18
+"Jake Hall",22.9,361,"Jack Davis 4",67.28,350,"Tyler Anderson 3",64.58,332,820,18
+"Kyle Hall",22.92,358,"Alex Evans 4",67.29,349,"Aaron Anderson 3",64.58,332,821,18
+"Logan Hall",22.94,356,"Blake Evans 4",67.3,349,"Ben Anderson 3",64.63,331,822,18
+"Max Hall",22.94,356,"Cameron Evans 4",67.31,349,"Cole Anderson 3",64.64,330,823,18
+"Noah Hall",22.95,355,"Devon Evans 4",67.31,349,"Drew Anderson 3",64.64,330,824,18
+"Owen Hall",22.95,355,"Ellis Evans 4",67.32,348,"Ethan Anderson 3",64.65,330,825,18
+"Parker Hall",22.95,355,"Finley Evans 4",67.33,348,"Felix Anderson 3",64.68,329,826,18
+"Quinn Hall",22.98,351,"Gray Evans 4",67.36,347,"Gavin Anderson 3",64.77,326,827,17
+"Ryan Hall",22.98,351,"Hunter Evans 4",67.37,347,"Henry Anderson 3",64.8,325,828,17
+"Sam Hall",22.98,351,"Ian Evans 4",67.37,347,"Ivan Anderson 3",64.81,325,829,17
+"Tyler Hall",22.98,351,"Jake Evans 4",67.38,346,"Jack Anderson 3",64.81,325,830,17
+"Aaron Hall",22.98,351,"Kyle Evans 4",67.44,344,"Alex Brown 3",64.82,325,831,17
+"Ben Hall",22.98,351,"Logan Evans 4",67.46,344,"Blake Brown 3",64.83,325,832,17
+"Cole Hall",22.99,350,"Max Evans 4",67.46,344,"Cameron Brown 3",64.84,324,833,17
+"Drew Hall",23,349,"Noah Evans 4",67.47,343,"Devon Brown 3",64.85,324,834,17
+"Ethan Hall",23,349,"Owen Evans 4",67.48,343,"Ellis Brown 3",64.85,324,835,17
+"Felix Hall",23,349,"Parker Evans 4",67.49,343,"Finley Brown 3",64.86,324,836,17
+"Gavin Hall",23,349,"Quinn Evans 4",67.5,342,"Gray Brown 3",64.87,323,837,16
+"Henry Hall",23.02,346,"Ryan Evans 4",67.51,342,"Hunter Brown 3",64.92,322,838,16
+"Ivan Hall",23.02,346,"Sam Evans 4",67.53,341,"Ian Brown 3",64.93,322,839,16
+"Jack Hall",23.02,346,"Tyler Evans 4",67.58,339,"Jake Brown 3",64.94,321,840,16
+"Alex Jackson",23.02,346,"Aaron Evans 4",67.58,339,"Kyle Brown 3",64.96,321,841,16
+"Blake Jackson",23.04,344,"Ben Evans 4",67.58,339,"Logan Brown 3",64.98,320,842,16
+"Cameron Jackson",23.05,343,"Cole Evans 4",67.59,339,"Max Brown 3",65,320,843,16
+"Devon Jackson",23.05,343,"Drew Evans 4",67.59,339,"Noah Brown 3",65.01,319,844,16
+"Ellis Jackson",23.05,343,"Ethan Evans 4",67.67,336,"Owen Brown 3",65.01,319,845,16
+"Finley Jackson",23.05,343,"Felix Evans 4",67.67,336,"Parker Brown 3",65.05,318,846,16
+"Gray Jackson",23.06,342,"Gavin Evans 4",67.67,336,"Quinn Brown 3",65.07,317,847,15
+"Hunter Jackson",23.07,340,"Henry Evans 4",67.67,336,"Ryan Brown 3",65.07,317,848,15
+"Ian Jackson",23.07,340,"Ivan Evans 4",67.67,336,"Sam Brown 3",65.08,317,849,15
+"Jake Jackson",23.1,337,"Jack Evans 4",67.71,335,"Tyler Brown 3",65.1,317,850,15
+"Kyle Jackson",23.11,336,"Alex Fisher 4",67.72,335,"Aaron Brown 3",65.1,317,851,15
+"Logan Jackson",23.12,335,"Blake Fisher 4",67.74,334,"Ben Brown 3",65.24,312,852,15
+"Max Jackson",23.12,335,"Cameron Fisher 4",67.75,334,"Cole Brown 3",65.25,312,853,15
+"Noah Jackson",23.12,335,"Devon Fisher 4",67.76,333,"Drew Brown 3",65.29,311,854,15
+"Owen Jackson",23.13,333,"Ellis Fisher 4",67.76,333,"Ethan Brown 3",65.34,309,855,15
+"Parker Jackson",23.14,332,"Finley Fisher 4",67.77,333,"Felix Brown 3",65.35,309,856,14
+"Quinn Jackson",23.15,331,"Gray Fisher 4",67.77,333,"Gavin Brown 3",65.36,309,857,14
+"Ryan Jackson",23.16,330,"Hunter Fisher 4",67.85,330,"Henry Brown 3",65.36,309,858,14
+"Sam Jackson",23.16,330,"Ian Fisher 4",67.92,328,"Ivan Brown 3",65.36,309,859,14
+"Tyler Jackson",23.16,330,"Jake Fisher 4",68.02,324,"Jack Brown 3",65.39,308,860,14
+"Aaron Jackson",23.18,327,"Kyle Fisher 4",68.05,323,"Alex Clark 3",65.42,307,861,14
+"Ben Jackson",23.18,327,"Logan Fisher 4",68.06,323,"Blake Clark 3",65.42,307,862,14
+"Cole Jackson",23.19,326,"Max Fisher 4",68.17,319,"Cameron Clark 3",65.43,307,863,14
+"Drew Jackson",23.19,326,"Noah Fisher 4",68.18,319,"Devon Clark 3",65.52,304,864,14
+"Ethan Jackson",23.2,325,"Owen Fisher 4",68.19,318,"Ellis Clark 3",65.54,303,865,14
+"Felix Jackson",23.21,324,"Parker Fisher 4",68.19,318,"Finley Clark 3",65.55,303,866,14
+"Gavin Jackson",23.21,324,"Quinn Fisher 4",68.2,318,"Gray Clark 3",65.57,303,867,13
+"Henry Jackson",23.21,324,"Ryan Fisher 4",68.21,318,"Hunter Clark 3",65.61,301,868,13
+"Ivan Jackson",23.22,323,"Sam Fisher 4",68.22,317,"Ian Clark 3",65.62,301,869,13
+"Jack Jackson",23.23,321,"Tyler Fisher 4",68.24,317,"Jake Clark 3",65.71,298,870,13
+"Alex King",23.24,320,"Aaron Fisher 4",68.24,317,"Kyle Clark 3",65.72,298,871,13
+"Blake King",23.24,320,"Ben Fisher 4",68.24,317,"Logan Clark 3",65.73,298,872,13
+"Cameron King",23.25,319,"Cole Fisher 4",68.28,315,"Max Clark 3",65.77,297,873,13
+"Devon King",23.25,319,"Drew Fisher 4",68.29,315,"Noah Clark 3",65.77,297,874,13
+"Ellis King",23.25,319,"Ethan Fisher 4",68.29,315,"Owen Clark 3",65.77,297,875,13
+"Finley King",23.26,318,"Felix Fisher 4",68.31,314,"Parker Clark 3",65.77,297,876,13
+"Gray King",23.26,318,"Gavin Fisher 4",68.32,314,"Quinn Clark 3",65.77,297,877,12
+"Hunter King",23.27,317,"Henry Fisher 4",68.33,314,"Ryan Clark 3",65.89,293,878,12
+"Ian King",23.28,315,"Ivan Fisher 4",68.37,312,"Sam Clark 3",65.9,293,879,12
+"Jake King",23.28,315,"Jack Fisher 4",68.49,308,"Tyler Clark 3",65.91,292,880,12
+"Kyle King",23.29,314,"Alex Garcia 4",68.52,307,"Aaron Clark 3",65.92,292,881,12
+"Logan King",23.3,313,"Blake Garcia 4",68.56,306,"Ben Clark 3",65.92,292,882,12
+"Max King",23.3,313,"Cameron Garcia 4",68.57,305,"Cole Clark 3",65.92,292,883,12
+"Noah King",23.32,311,"Devon Garcia 4",68.58,305,"Drew Clark 3",65.93,292,884,12
+"Owen King",23.33,310,"Ellis Garcia 4",68.59,305,"Ethan Clark 3",65.95,291,885,12
+"Parker King",23.33,310,"Finley Garcia 4",68.59,305,"Felix Clark 3",65.97,291,886,12
+"Quinn King",23.33,310,"Gray Garcia 4",68.62,304,"Gavin Clark 3",65.98,290,887,11
+"Ryan King",23.34,308,"Hunter Garcia 4",68.62,304,"Henry Clark 3",65.99,290,888,11
+"Sam King",23.34,308,"Ian Garcia 4",68.62,304,"Ivan Clark 3",66.05,288,889,11
+"Tyler King",23.35,307,"Jake Garcia 4",68.69,301,"Jack Clark 3",66.09,287,890,11
+"Aaron King",23.35,307,"Kyle Garcia 4",68.7,301,"Alex Davis 3",66.14,286,891,11
+"Ben King",23.36,306,"Logan Garcia 4",68.73,300,"Blake Davis 3",66.14,286,892,11
+"Cole King",23.36,306,"Max Garcia 4",68.75,299,"Cameron Davis 3",66.15,285,893,11
+"Drew King",23.36,306,"Noah Garcia 4",68.75,299,"Devon Davis 3",66.19,284,894,11
+"Ethan King",23.38,304,"Owen Garcia 4",68.76,299,"Ellis Davis 3",66.19,284,895,11
+"Felix King",23.38,304,"Parker Garcia 4",68.76,299,"Finley Davis 3",66.22,283,896,11
+"Gavin King",23.39,302,"Quinn Garcia 4",68.76,299,"Gray Davis 3",66.25,282,897,10
+"Henry King",23.4,301,"Ryan Garcia 4",68.77,298,"Hunter Davis 3",66.29,281,898,10
+"Ivan King",23.4,301,"Sam Garcia 4",68.78,298,"Ian Davis 3",66.29,281,899,10
+"Jack King",23.4,301,"Tyler Garcia 4",68.79,298,"Jake Davis 3",66.29,281,900,10
+"Alex Anderson 2",23.41,300,"Aaron Garcia 4",68.87,295,"Kyle Davis 3",66.35,279,901,10
+"Blake Anderson 2",23.41,300,"Ben Garcia 4",68.9,294,"Logan Davis 3",66.36,279,902,10
+"Cameron Anderson 2",23.42,299,"Cole Garcia 4",68.94,292,"Max Davis 3",66.36,279,903,10
+"Devon Anderson 2",23.42,299,"Drew Garcia 4",68.95,292,"Noah Davis 3",66.41,278,904,10
+"Ellis Anderson 2",23.43,298,"Ethan Garcia 4",69,290,"Owen Davis 3",66.41,278,905,10
+"Finley Anderson 2",23.43,298,"Felix Garcia 4",69.04,289,"Parker Davis 3",66.42,277,906,10
+"Gray Anderson 2",23.44,296,"Gavin Garcia 4",69.04,289,"Quinn Davis 3",66.47,276,907,9
+"Hunter Anderson 2",23.44,296,"Henry Garcia 4",69.05,289,"Ryan Davis 3",66.48,275,908,9
+"Ian Anderson 2",23.45,295,"Ivan Garcia 4",69.05,289,"Sam Davis 3",66.48,275,909,9
+"Jake Anderson 2",23.45,295,"Jack Garcia 4",69.06,288,"Tyler Davis 3",66.48,275,910,9
+"Kyle Anderson 2",23.45,295,"Alex Harris 4",69.06,288,"Aaron Davis 3",66.48,275,911,9
+"Logan Anderson 2",23.46,294,"Blake Harris 4",69.09,287,"Ben Davis 3",66.49,275,912,9
+"Max Anderson 2",23.46,294,"Cameron Harris 4",69.15,285,"Cole Davis 3",66.49,275,913,9
+"Noah Anderson 2",23.47,293,"Devon Harris 4",69.15,285,"Drew Davis 3",66.52,274,914,9
+"Owen Anderson 2",23.47,293,"Ellis Harris 4",69.15,285,"Ethan Davis 3",66.55,273,915,9
+"Parker Anderson 2",23.47,293,"Finley Harris 4",69.17,285,"Felix Davis 3",66.58,272,916,9
+"Quinn Anderson 2",23.5,289,"Gray Harris 4",69.17,285,"Gavin Davis 3",66.59,272,917,8
+"Ryan Anderson 2",23.52,287,"Hunter Harris 4",69.17,285,"Henry Davis 3",66.62,271,918,8
+"Sam Anderson 2",23.52,287,"Ian Harris 4",69.17,285,"Ivan Davis 3",66.68,269,919,8
+"Tyler Anderson 2",23.52,287,"Jake Harris 4",69.18,284,"Jack Davis 3",66.7,269,920,8
+"Aaron Anderson 2",23.54,285,"Kyle Harris 4",69.18,284,"Alex Evans 3",66.71,269,921,8
+"Ben Anderson 2",23.54,285,"Logan Harris 4",69.19,284,"Blake Evans 3",66.72,268,922,8
+"Cole Anderson 2",23.56,282,"Max Harris 4",69.2,284,"Cameron Evans 3",66.73,268,923,8
+"Drew Anderson 2",23.57,281,"Noah Harris 4",69.23,282,"Devon Evans 3",66.74,268,924,8
+"Ethan Anderson 2",23.57,281,"Owen Harris 4",69.32,279,"Ellis Evans 3",66.78,266,925,8
+"Felix Anderson 2",23.57,281,"Parker Harris 4",69.34,279,"Finley Evans 3",66.82,265,926,8
+"Gavin Anderson 2",23.57,281,"Quinn Harris 4",69.38,277,"Gray Evans 3",66.83,265,927,7
+"Henry Anderson 2",23.57,281,"Ryan Harris 4",69.4,277,"Hunter Evans 3",66.83,265,928,7
+"Ivan Anderson 2",23.58,280,"Sam Harris 4",69.45,275,"Ian Evans 3",66.84,265,929,7
+"Jack Anderson 2",23.59,279,"Tyler Harris 4",69.46,275,"Jake Evans 3",66.85,264,930,7
+"Alex Brown 2",23.61,276,"Aaron Harris 4",69.48,274,"Kyle Evans 3",66.85,264,931,7
+"Blake Brown 2",23.63,274,"Ben Harris 4",69.53,272,"Logan Evans 3",66.87,264,932,7
+"Cameron Brown 2",23.64,273,"Cole Harris 4",69.59,270,"Max Evans 3",67.05,258,933,7
+"Devon Brown 2",23.65,271,"Drew Harris 4",69.62,269,"Noah Evans 3",67.06,258,934,7
+"Ellis Brown 2",23.66,270,"Ethan Harris 4",69.65,268,"Owen Evans 3",67.08,258,935,7
+"Finley Brown 2",23.67,269,"Felix Harris 4",69.66,268,"Parker Evans 3",67.1,257,936,7
+"Gray Brown 2",23.67,269,"Gavin Harris 4",69.66,268,"Quinn Evans 3",67.13,256,937,6
+"Hunter Brown 2",23.68,268,"Henry Harris 4",69.67,267,"Ryan Evans 3",67.15,255,938,6
+"Ian Brown 2",23.68,268,"Ivan Harris 4",69.75,265,"Sam Evans 3",67.19,254,939,6
+"Jake Brown 2",23.69,267,"Jack Harris 4",69.75,265,"Tyler Evans 3",67.2,254,940,6
+"Kyle Brown 2",23.69,267,"Alex Johnson 4",69.76,264,"Aaron Evans 3",67.2,254,941,6
+"Logan Brown 2",23.7,265,"Blake Johnson 4",69.76,264,"Ben Evans 3",67.28,252,942,6
+"Max Brown 2",23.7,265,"Cameron Johnson 4",69.79,263,"Cole Evans 3",67.29,251,943,6
+"Noah Brown 2",23.7,265,"Devon Johnson 4",69.8,263,"Drew Evans 3",67.32,250,944,6
+"Owen Brown 2",23.71,264,"Ellis Johnson 4",69.81,262,"Ethan Evans 3",67.35,249,945,6
+"Parker Brown 2",23.71,264,"Finley Johnson 4",69.81,262,"Felix Evans 3",67.36,249,946,6
+"Quinn Brown 2",23.73,262,"Gray Johnson 4",69.81,262,"Gavin Evans 3",67.39,248,947,5
+"Ryan Brown 2",23.73,262,"Hunter Johnson 4",69.81,262,"Henry Evans 3",67.44,247,948,5
+"Sam Brown 2",23.73,262,"Ian Johnson 4",69.81,262,"Ivan Evans 3",67.46,246,949,5
+"Tyler Brown 2",23.74,261,"Jake Johnson 4",69.82,262,"Jack Evans 3",67.48,246,950,5
+"Aaron Brown 2",23.77,257,"Kyle Johnson 4",69.95,258,"Alex Fisher 3",67.54,244,951,5
+"Ben Brown 2",23.78,256,"Logan Johnson 4",69.99,256,"Blake Fisher 3",67.56,243,952,5
+"Cole Brown 2",23.78,256,"Max Johnson 4",70,256,"Cameron Fisher 3",67.57,243,953,5
+"Drew Brown 2",23.78,256,"Noah Johnson 4",70.02,255,"Devon Fisher 3",67.67,240,954,5
+"Ethan Brown 2",23.79,255,"Owen Johnson 4",70.02,255,"Ellis Fisher 3",67.68,240,955,5
+"Felix Brown 2",23.8,254,"Parker Johnson 4",70.06,254,"Finley Fisher 3",67.69,239,956,5
+"Gavin Brown 2",23.81,252,"Quinn Johnson 4",70.07,253,"Gray Fisher 3",67.73,238,957,4
+"Henry Brown 2",23.81,252,"Ryan Johnson 4",70.11,252,"Hunter Fisher 3",67.75,238,958,4
+"Ivan Brown 2",23.82,251,"Sam Johnson 4",70.14,251,"Ian Fisher 3",67.8,236,959,4
+"Jack Brown 2",23.84,249,"Tyler Johnson 4",70.17,250,"Jake Fisher 3",67.81,236,960,4
+"Alex Clark 2",23.84,249,"Aaron Johnson 4",70.21,249,"Kyle Fisher 3",67.82,235,961,4
+"Blake Clark 2",23.84,249,"Ben Johnson 4",70.21,249,"Logan Fisher 3",67.91,233,962,4
+"Cameron Clark 2",23.85,248,"Cole Johnson 4",70.22,248,"Max Fisher 3",67.96,231,963,4
+"Devon Clark 2",23.85,248,"Drew Johnson 4",70.25,247,"Noah Fisher 3",67.97,231,964,4
+"Ellis Clark 2",23.87,245,"Ethan Johnson 4",70.31,245,"Owen Fisher 3",68.01,230,965,4
+"Finley Clark 2",23.87,245,"Felix Johnson 4",70.32,245,"Parker Fisher 3",68.06,228,966,4
+"Gray Clark 2",23.87,245,"Gavin Johnson 4",70.34,244,"Quinn Fisher 3",68.06,228,967,3
+"Hunter Clark 2",23.89,243,"Henry Johnson 4",70.36,243,"Ryan Fisher 3",68.12,227,968,3
+"Ian Clark 2",23.95,236,"Ivan Johnson 4",70.4,242,"Sam Fisher 3",68.13,226,969,3
+"Jake Clark 2",23.96,235,"Jack Johnson 4",70.44,241,"Tyler Fisher 3",68.15,226,970,3
+"Kyle Clark 2",23.97,233,"Alex Kelly 4",70.45,240,"Aaron Fisher 3",68.15,226,971,3
+"Logan Clark 2",23.97,233,"Blake Kelly 4",70.62,235,"Ben Fisher 3",68.19,224,972,3
+"Max Clark 2",23.99,231,"Cameron Kelly 4",70.62,235,"Cole Fisher 3",68.2,224,973,3
+"Noah Clark 2",24.01,229,"Devon Kelly 4",70.63,234,"Drew Fisher 3",68.2,224,974,3
+"Owen Clark 2",24.02,227,"Ellis Kelly 4",70.68,232,"Ethan Fisher 3",68.23,223,975,3
+"Parker Clark 2",24.03,226,"Finley Kelly 4",70.8,228,"Felix Fisher 3",68.28,222,976,3
+"Quinn Clark 2",24.03,226,"Gray Kelly 4",70.8,228,"Gavin Fisher 3",68.29,221,977,2
+"Ryan Clark 2",24.04,225,"Hunter Kelly 4",70.81,228,"Henry Fisher 3",68.33,220,978,2
+"Sam Clark 2",24.07,221,"Ian Kelly 4",70.81,228,"Ivan Fisher 3",68.35,220,979,2
+"Tyler Clark 2",24.07,221,"Jake Kelly 4",70.85,227,"Jack Fisher 3",68.37,219,980,2
+"Aaron Clark 2",24.08,220,"Kyle Kelly 4",70.87,226,"Alex Garcia 3",68.38,219,981,2
+"Ben Clark 2",24.08,220,"Logan Kelly 4",70.89,225,"Blake Garcia 3",68.43,217,982,2
+"Cole Clark 2",24.1,218,"Max Kelly 4",70.94,223,"Cameron Garcia 3",68.45,217,983,2
+"Drew Clark 2",24.13,214,"Noah Kelly 4",70.97,222,"Devon Garcia 3",68.45,217,984,2
+"Ethan Clark 2",24.14,213,"Owen Kelly 4",70.99,222,"Ellis Garcia 3",68.49,216,985,2
+"Felix Clark 2",24.16,211,"Parker Kelly 4",71.01,221,"Finley Garcia 3",68.49,216,986,2
+"Gavin Clark 2",24.16,211,"Quinn Kelly 4",71.11,218,"Gray Garcia 3",68.5,215,987,1
+"Henry Clark 2",24.17,210,"Ryan Kelly 4",71.11,218,"Hunter Garcia 3",68.5,215,988,1
+"Ivan Clark 2",24.17,210,"Sam Kelly 4",71.16,216,"Ian Garcia 3",68.53,214,989,1
+"Jack Clark 2",24.17,210,"Tyler Kelly 4",71.17,216,"Jake Garcia 3",68.58,213,990,1
+"Alex Davis 2",24.18,208,"Aaron Kelly 4",71.21,214,"Kyle Garcia 3",68.61,212,991,1
+"Blake Davis 2",24.18,208,"Ben Kelly 4",71.32,210,"Logan Garcia 3",68.67,210,992,1
+"Cameron Davis 2",24.19,207,"Cole Kelly 4",71.4,208,"Max Garcia 3",68.71,209,993,1
+"Devon Davis 2",24.2,206,"Drew Kelly 4",71.45,206,"Noah Garcia 3",68.71,209,994,1
+"Ellis Davis 2",24.21,205,"Ethan Kelly 4",71.45,206,"Owen Garcia 3",68.73,208,995,1
+"Finley Davis 2",24.21,205,"Felix Kelly 4",71.51,204,"Parker Garcia 3",68.9,203,996,1
+"Gray Davis 2",24.22,204,"Gavin Kelly 4",71.56,202,"Quinn Garcia 3",68.9,203,997,0
+"Hunter Davis 2",24.24,201,"Henry Kelly 4",71.57,202,"Ryan Garcia 3",69,200,998,0
+"Ian Davis 2",24.25,200,"Ivan Kelly 4",71.58,201,"Sam Garcia 3",69,200,999,0
+"Jake Davis 2",24.25,200,"Jack Kelly 4",71.62,200,"Tyler Garcia 3",69.01,200,1000,0
